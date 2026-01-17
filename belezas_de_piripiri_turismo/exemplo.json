@@ -1,0 +1,882 @@
+{
+    "pizzaria": [
+        {
+            "id": 1,
+            "nome": "Pizzaria Mais Sabor - Piripiri",
+            "descricao_curta": "Se destaca pelo cardápio variado, que vai muito além das pizzas.",
+            "descricao_longa": "A Pizzaria Mais Sabor, localizada na Avenida Dr. Pádua Mendes, no Centro de Piripiri, se destaca pelo cardápio variado, que vai muito além das pizzas. Além dos sabores tradicionais e especiais, o local também oferece hambúrgueres e até churrasco. É uma ótima opção para quem busca uma refeição de qualidade com bom custo-benefício. Não à toa, a pizzaria possui avaliação de 4,7 estrelas no Google, resultado da satisfação de muitos clientes.",
+            "endereco": " Av. Dr. Pádua Mendes, 1238 - Centro",
+            "telefone": "(86) 99987-3307",
+            "opcoes_servico": "Brinquedos para crianças. · Entrega em domicílio · Aceita cartões de crédito",
+            "avaliacoes": "4,7 estrelas ",
+            "imagem": "https://img.restaurantguru.com/r8ff-Pizzaria-Mais-Sabor-1-e-2-design.jpg"
+        },
+        {
+            "id": 2,
+            "nome": "Pizzaria Ciele",
+            "descricao_curta": " Oferece um espaço agradável para quem busca boas opções gastronômicas aliadas a momentos de lazer e diversão.",
+            "descricao_longa": "Localizada na Rua Projetada, no bairro Floresta, a Pizzaria Ciele oferece um espaço agradável para quem busca boas opções gastronômicas aliadas a momentos de lazer e diversão. O local conta com piscina e um cardápio recheado de pizzas saborosas, ideais para aproveitar com amigos e família.",
+            "endereco": "R. Projetada, 180 - casa 21 - Floresta",
+            "telefone": " (86) 99470-3603",
+            "opcoes_servico": "Mesas externas · Música ao vivo",
+            "avaliacoes": "4,1 estrelas ",
+            "imagem": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxsUshpuYk7Ps7rICwS7gwxCxpfDUTL0TSzlg--HbPXzabrrpWslDhvXF1oKeRyb7f1wyXmuChs_n2UcHjHa1l86A4G-0e0mxjTq1m5qg0ABxEnnRnC2qJ1GoZHXvB1A0ZHb8kbKg=w408-h544-k-no"
+        },
+        {
+            "id": 3,
+            "nome": "Pizzaria Monte Rei",
+            "descricao_curta": "Boa opção para quem busca uma refeição saborosa na cidade.",
+            "descricao_longa": "Com um cardápio variado e ambiente acolhedor, a pizzaria Monte Rei é uma boa opção para quem busca uma refeição saborosa na cidade. Está situada na Avenida Tomaz Rebelo e apesar do ambiente pequeno, a pizzaria é reconhecida por seu cardápio variado e pelo seu ótimo atendimento. ",
+            "endereco": "Av. Tomaz Rebelo, 1162 - Centro",
+            "telefone": " (86) 99483-0328",
+            "opcoes_servico": "Mesas externas, espaço privativo para eventos, bom para assistir a esportes.",
+            "avaliacoes": " 4,3 estrelas ",
+            "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPmZ-7HIlKqlljBb73iKhyfc8TpPijCRAyYA&s"
+        },
+        {
+            "id": 4,
+            "nome": "Oiti Bistrô e Pizzaria",
+            "descricao_curta": " O ambiente é aconchegante e bem refinado, ideal para encontros tranquilos ou momentos agradáveis com amigos. ",
+            "descricao_longa": "A Oiti Bistrô e Pizzaria é uma ótima opção para quem busca mais do que apenas uma boa pizza. O ambiente é aconchegante e bem refinado, ideal para encontros tranquilos ou momentos agradáveis com amigos. Além das pizzas bem preparadas, o espaço se destaca pelo clima acolhedor e pelo cuidado nos detalhes, proporcionando uma experiência gastronômica diferenciada. Com avaliação de 4,4 estrelas no Google, o local é bem reconhecido pelo público.",
+            "endereco": " R. Avelino Resende, 571 - Centro",
+            "telefone": " (86) 99925-3219",
+            "opcoes_servico": " Mesas externas",
+            "avaliacoes": "  4,4 estrelas",
+            "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAY3UIekiTr2GzHi-kNk7mErff-VWnk25yJQ&s"
+        },
+        {
+            "id": 5,
+            "nome": "Pizzaria Brasil Piripiri",
+            "descricao_curta": "O local é uma boa opção para quem deseja aproveitar pizzas saborosas em um espaço movimentado e bem localizado da cidade.",
+            "descricao_longa": "A Pizzaria Brasil Piripiri está localizada acima da Açaiteria Puro Açaí e também atende os clientes que frequentam a Praça do Cruzeiro. O local é uma boa opção para quem deseja aproveitar pizzas saborosas em um espaço movimentado e bem localizado da cidade. Com atendimento prático e opções que agradam diferentes gostos, a pizzaria se destaca como uma alternativa acessível para refeições em família ou com amigos.",
+            "endereco": " Av. Aderson Alves Ferreira, N° 47 - Sala 5 - Centro",
+            "telefone": " (86) 99919-2724",
+            "opcoes_servico": " Mesas externas · Opções vegetarianas",
+            "avaliacoes": "  4,4 estrelas",
+            "imagem": "https://lh3.googleusercontent.com/p/AF1QipN1FX3DV2X5VUTx7AB3DgHmOS6QBwpxH-ue7JnO=w426-h240-k-no"
+        },
+        {
+            "id": 6,
+            "nome": "Roni's Pizzaria e Esfiharia",
+            "descricao_curta": "É conhecida pelas pizzas e esfihas bem preparadas, com preços acessíveis.",
+            "descricao_longa": "A Roni’s Pizzaria e Esfiharia está localizada no bairro Esperança Garcia e é conhecida pelas pizzas e esfihas bem preparadas, com preços acessíveis. O local é uma boa opção para quem busca uma refeição saborosa e simples, seja para comer em casa ou no próprio espaço. Com avaliação de 4,9 estrelas no Google, a pizzaria recebe muitos elogios pela qualidade dos produtos e pelo bom atendimento.",
+            "endereco": "  R. Francisco Álvaro de Oliveira, Q-A02 Casa 09B - Caixa D Água",
+            "telefone": " (86) 99970-1303",
+            "opcoes_servico": " Mesas externas · Opções vegetarianas",
+            "avaliacoes": " 4,9 estrelas",
+            "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxwZDJNhuqsGM_sJJduE1PSpuZJjGoDrWF6A&s"
+        },
+        {
+            "id": 7,
+            "nome": "Pizzaria Bella & Paulista",
+            "descricao_curta": "O espaço é ideal para reunir família e amigos, oferecendo conforto e um clima tranquilo.",
+            "descricao_longa": "A Bella & Paulista Pizzaria está localizada na região da Estátua de Nossa Senhora dos Remédios e se destaca pelo ambiente amplo e agradável. O espaço é ideal para reunir família e amigos, oferecendo conforto e um clima tranquilo. Com pizzas bem preparadas e um local organizado, a pizzaria é uma boa opção para quem busca uma refeição saborosa em um dos pontos mais conhecidos da cidade.",
+            "endereco": " R. Cap Manoel de Oliveira, 5 - Morro da Saudade",
+            "telefone": " (86) 99992-6925",
+            "opcoes_servico": " Mesas na cobertura · Espaço privativo para eventos · Opções veganas",
+            "avaliacoes": " 4,8 estrelas",
+            "imagem": "https://lh3.googleusercontent.com/p/AF1QipNS3ViYxulPyHaRQrKxWIkTVWzg3s_Adlk5ilFa=w408-h544-k-no"
+        },
+        {
+            "id": 8,
+            "nome": "Pizzaria e Churrascaria Matriz",
+            "descricao_curta": "O local reúne opções de pizzas e churrascos, sendo uma boa escolha para quem procura variedade no cardápio.",
+            "descricao_longa": "A Pizzaria e Churrascaria Matriz está localizada próxima à Igreja Matriz e à Praça da Bandeira, em uma área bastante conhecida e movimentada da cidade. O local reúne opções de pizzas e churrascos, sendo uma boa escolha para quem procura variedade no cardápio. Com um espaço adequado para receber famílias e grupos, o estabelecimento se destaca como uma alternativa prática para refeições em diferentes momentos do dia.",
+            "endereco": " R. Freitas Júnior, 542 - Centro",
+            "telefone": "(86) 99814-5400",
+            "opcoes_servico": " Entrega em domicílio · Aceita cartões de crédito",
+            "avaliacoes": " 4,3 estrelas",
+            "imagem": "https://img.restaurantguru.com/rf9b-Pizzaria-e-Churrascaria-Matriz-advertisement.jpg"
+        }
+    ],
+    "hamburgueria": [
+        {
+            "id": 9,
+            "nome": "Joker’s Burger Piripiri",
+            "descricao_curta": "A Joker’s Burger Piripiri é uma hamburgueria que se destaca na cidade por unir sabor, ambiente temático e ótimo custo-benefício. ",
+            "descricao_longa": "A Joker’s Burger Piripiri é uma hamburgueria que se destaca na cidade por unir sabor, ambiente temático e ótimo custo-benefício. Com um espaço amplo e bem organizado, o local chama atenção pela decoração retrô. O cardápio é bem variado, com hambúrgueres artesanais suculentos, preparados com carnes bem temperadas, pães macios e combinações que agradam diferentes paladares. Além dos burgers, a casa também oferece batatas fritas, milk-shakes e acompanhamentos que completam muito bem a experiência. ",
+            "endereco": " Av. João Bandeira Monte, 558 - Caixa D'agua",
+            "telefone": "(86) 99976-8156",
+            "opcoes_servico": "Bom para assistir a esportes · Wi-Fi",
+            "avaliacoes": " 4,6 estrelas",
+            "imagem": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwgXeK-YCCO5487fycpg7a4kjs1dqe6P9_HIftAK_3Syqytb6Ue3UnfB-VTxiDPdJ03ML_hljp0WpzxN_SwfIz1SHPqCec0wQs7tmWuArkWzGzVT2xU8NYnhCkfOY8o89Z2esXCBA=w408-h306-k-no"
+        },
+        {
+            "id": 10,
+            "nome": "Prime Burguer ",
+            "descricao_curta": "A Prime Burger aposta em hambúrgueres artesanais bem preparados, com carnes suculentas, ingredientes frescos e combinações equilibradas de sabores.",
+            "descricao_longa": "A Prime Burger é uma hamburgueria charmosa e bem localizada em Piripiri, situada em frente à Praça da Bandeira, o que a torna uma ótima opção para quem gosta de unir boa comida e um ambiente agradável ao ar livre. O espaço se destaca pela decoração acolhedora, com muitas plantas naturais e luzes amarelas, criando um clima aconchegante e moderno, perfeito para encontros à noite ou momentos tranquilos com amigos e família. No cardápio, a Prime Burger aposta em hambúrgueres artesanais bem preparados, com carnes suculentas, ingredientes frescos e combinações equilibradas de sabores.",
+            "endereco": " R. Prof. Bem, 602-626 - Centro",
+            "telefone": "-------",
+            "opcoes_servico": "Entrega em domicílio ",
+            "avaliacoes": " 4,0 estrelas",
+            "imagem": "https://piripirireporter.com/img_post/33274-813114051.jpg"
+        },
+        {
+            "id": 11,
+            "nome": "Big Merson",
+            "descricao_curta": "Cardápio variado de hambúrgueres artesanais suculentos, acompanhamentos como batata frita e molhos especiais.",
+            "descricao_longa": "A Hamburgueria Big Merson se destaca pela qualidade e capricho em cada detalhe. Com um cardápio variado de hambúrgueres artesanais suculentos, acompanhamentos como batata frita e molhos especiais, o espaço é ideal para quem busca uma refeição saborosa e bem servida. O ambiente descontraído e o cuidado na apresentação dos pratos tornam a experiência ainda mais agradável. Além disso, é uma excelente opção para quem procura bom custo-benefício aliado a comida de qualidade, sendo muito bem avaliada no Google, realmente uma escolha certeira para os amantes de hambúrguer.",
+            "endereco": " Av. Nelson Rezende, 943 - Santa Maria",
+            "telefone": "(86) 99976-4007",
+            "opcoes_servico": " Mesas externas",
+            "avaliacoes": " 4,8 estrelas",
+            "imagem": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzwxeZbvnSOn9V_X9IVA67r0pclOUvSRHbhv7gCf9eV4CUgXSjtfkd2ua6-HN3RI95oLbp5qVkDO7sgWBZnpOxOX6ihssl1KiD--HKXR-wZMp0xi0DogqRQybkvgihuN2ikeC9S=w408-h552-k-no"
+        },
+        {
+            "id": 12,
+            "nome": "Salles Burguer Piripiri",
+            "descricao_curta": "O local oferece hambúrgueres artesanais bem servidos, preparados com ingredientes de qualidade e apresentações que chamam atenção.",
+            "descricao_longa": "A Salles Burguer Piripiri, localizada na Avenida Tomaz Rebelo, no Centro de Piripiri, é uma hamburgueria que vem se destacando pela qualidade e sabor dos seus lanches. O local oferece hambúrgueres artesanais bem servidos, preparados com ingredientes de qualidade e apresentações que chamam atenção. É uma ótima opção para quem busca uma refeição saborosa, com bom atendimento e excelente custo-benefício. Avaliada em 4,8 estrelas no Google, a Salles Burguer conquista seus clientes e se consolida como uma das melhores escolhas para quem ama um bom hambúrguer na cidade.",
+            "endereco": " Av. Tomaz Rebelo, 384 - Centro",
+            "telefone": "(86) 99492-5215",
+            "opcoes_servico": " Entrega em domicílio",
+            "avaliacoes": " 4,8 estrelas",
+            "imagem": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxglQSHIfeKYaoDuiNwY_IX0SbtBi82veHlHY4Yocpy5eo1sQchssiBGeFw_HFfz4DHwq7Ul05GE3p69HQfQWnRI6q27Bpc_GxzpbDw87YUTqtTd4VDHMODwKmVbblpsUWtBVxA=w408-h398-k-no"
+        },
+        {
+            "id": 13,
+            "nome": "Burger Nobre ",
+            "descricao_curta": " A casa se destaca pelos lanches generosos, carnes suculentas e combinações de sabores que agradam desde os mais clássicos até os paladares mais exigentes.",
+            "descricao_longa": "O Burger Nobre, situado no Centro de Piripiri, é o lugar ideal para quem aprecia um hambúrguer artesanal feito com cuidado e personalidade. A casa se destaca pelos lanches generosos, carnes suculentas e combinações de sabores que agradam desde os mais clássicos até os paladares mais exigentes. Além dos hambúrgueres bem montados, o Burger Nobre oferece acompanhamentos que completam a experiência e um ambiente acolhedor, perfeito para curtir uma boa refeição sem pressa. Com 4,3 estrelas no Google, o espaço se firma como uma opção confiável para quem busca sabor, qualidade e uma experiência que vai além do básico.",
+            "endereco": " R. Aristeu Tupinambá Rodrigues, n° 89 - Centro",
+            "telefone": "(86) 99529-5992",
+            "opcoes_servico": " Entrega em domicílio",
+            "avaliacoes": " 4,3 estrelas",
+            "imagem": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyBiq6DVVbJYfTqtLHv2IvmlQhWO-uxo9ulDuwWFdrCHzCD2PonRAEBecl2--JsT9K-jB91Ro36cjQ53VYAp_Lw_nQKF1zI9umhtVYElsjBjrKOC98_1FQ0oMw26eZHuzj7n4YcGLjXWTg-=w408-h716-k-no"
+        },
+        {
+            "id": 14,
+            "nome": "Domínio Burguer Artesanal",
+            "descricao_curta": "Se destaca pelos hambúrgueres artesanais bem elaborados, com carnes suculentas, pães macios e combinações de sabores que fogem do comum, agradando quem busca algo diferente e bem feito.",
+            "descricao_longa": "O Domínio Burger Artesanal, localizado na Rua Manoel Jovino, no bairro Fonte dos Matos em Piripiri, é uma hamburgueria que aposta em uma proposta moderna e cheia de personalidade. A casa se destaca pelos hambúrgueres artesanais bem elaborados, com carnes suculentas, pães macios e combinações de sabores que fogem do comum, agradando quem busca algo diferente e bem feito. Além dos lanches caprichados, o local oferece opções de acompanhamento que tornam a experiência ainda mais completa. Com avaliação de 4,0 estrelas no Google, o Domínio Burger Artesanal é uma ótima escolha para quem valoriza qualidade, criatividade e um bom custo-benefício em cada pedido.",
+            "endereco": " Rua Manoel Jovino, 115 - Fonte dos Matos",
+            "telefone": " (86) 99937-8228",
+            "opcoes_servico": " Entrega em domicílio",
+            "avaliacoes": "4,0 estrelas",
+            "imagem": "https://lh3.googleusercontent.com/p/AF1QipPzfdW4j8swNfmxHfiS6G5ws7rJgEw5qr_WrLrd=w408-h272-k-no"
+        },
+        {
+            "id": 15,
+            "nome": "Planeta Burger ",
+            "descricao_curta": "Proposta mais tradicional, o local oferece sanduíches bem servidos, acompanhados de batatas crocantes e opções de bebidas que agradam a todos os gostos. ",
+            "descricao_longa": "O Planeta Burger, localizado na Rua Leônidas Melo, no Centro de Piripiri, é uma hamburgueria já bastante conhecida na cidade e que conquistou seu espaço ao longo do tempo. Com uma proposta mais tradicional, o local oferece sanduíches bem servidos, acompanhados de batatas crocantes e opções de bebidas que agradam a todos os gostos. O ambiente é simples e acolhedor, ideal para quem busca uma refeição rápida, saborosa e sem complicação. Com 4,5 estrelas no Google e mais de 100 avaliações, o Planeta Burger se destaca pela constância na qualidade e pela preferência do público local, sendo uma escolha certeira para quem quer comer bem.",
+            "endereco": " R. Leônidas Melo, 922 - Centro",
+            "telefone": " (86) 99844-9797",
+            "opcoes_servico": "  Tem mesas externas",
+            "avaliacoes": "4,5 estrelas",
+            "imagem": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSz5o_1P0zd7aFyEVC8HdJDh8QE1gdtuj_V8g_6SnlWo1vN4fm2Rz6DOrdvRPMUuc8MH1pt0cLR3M3eypROY7vnPL5LYE_VMYa3e29YEx2EkIr6qhAMGgXuZgqR2rqfl1yImdbM=w408-h544-k-no"
+        },
+        {
+            "id": 16,
+            "nome": "Takarrache burguer",
+            "descricao_curta": "Em um ambiente simples e rodeado de verde, é o lugar ideal para quem busca uma experiência autêntica, atendimento atencioso e hambúrgueres feitos com paixão e capricho.",
+            "descricao_longa": "Hamburgueria artesanal que une sabor, qualidade e um clima acolhedor, com lanches preparados com ingredientes selecionados e carnes suculentas que conquistam logo na primeira mordida. Em um ambiente simples e rodeado de verde, é o lugar ideal para quem busca uma experiência autêntica, atendimento atencioso e hambúrgueres feitos com paixão e capricho.",
+            "endereco": "  Av. João Bandeira Monte - São João, Piripiri",
+            "telefone": " --------",
+            "opcoes_servico": " Ambiente ao ar livre",
+            "avaliacoes": "5,0 estrelas ",
+            "imagem": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=K-yaa4ILRz3yfGBQIAY67A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=259.78955&pitch=0&thumbfov=100"
+        }
+    ],
+    "restaurantes": [
+        {
+            "id": 17,
+            "nome": "Espaço Castanhola",
+            "descricao_curta": "O cardápio é variado e caprichado, trazendo pratos saborosos, petiscos irresistíveis e bebidas bem preparadas, tudo com ótima apresentação e qualidade.",
+            "descricao_longa": "O Espaço Castanhola, em Piripiri, é aquele tipo de restaurante que conquista logo na primeira visita. Com um ambiente charmoso, bem organizado e super aconchegante, o local é perfeito para reunir amigos, curtir em família ou até relaxar após um dia corrido. O cardápio é variado e caprichado, trazendo pratos saborosos, petiscos irresistíveis e bebidas bem preparadas, tudo com ótima apresentação e qualidade. Muito bem avaliado no Google, com cerca de 4,6 estrelas, o Espaço Castanhola se destaca como uma excelente escolha para quem procura boa comida, um clima agradável e uma experiência completa na cidade.",
+            "endereco": "Av. Otílio Rezende, 57 - Centro, Piripiri ",
+            "telefone": "(86) 99833-5084",
+            "opcoes_servico": " Pratos para happy hour · Ótimos coquetéis · Bom para assistir a esportes",
+            "avaliacoes": " 4,6 estrelas",
+            "imagem": "https://lh3.googleusercontent.com/p/AF1QipO3PXWyFRgSw5T33vGF7hzZJXgz3Do2bJknyVRT=w408-h346-k-no"
+        },
+        {
+            "id": 18,
+            "nome": "Atlântico Bar e Restaurante",
+            "descricao_curta": "Com uma estrutura ampla, bem organizada e um visual marcante, o espaço é perfeito tanto para uma refeição tranquila quanto para encontros animados com amigos ou família. ",
+            "descricao_longa": "O Atlântico Bar e Restaurante é aquele lugar que chama atenção logo de longe e conquista pelo conjunto completo. Com uma estrutura ampla, bem organizada e um visual marcante, o espaço é perfeito tanto para uma refeição tranquila quanto para encontros animados com amigos ou família. O cardápio é diversificado e cheio de opções, indo de pratos bem servidos a pizzas e lanches caprichados, sempre preparados com qualidade. O ambiente descontraído, aliado ao bom atendimento, faz do Atlântico uma referência em Piripiri, sendo muito bem avaliado e reconhecido como uma ótima opção para quem busca sabor, conforto e bons momentos.",
+            "endereco": "R. Padre Domingos, 500 - Centro, Piripiri ",
+            "telefone": " (86) 99960-2667",
+            "opcoes_servico": " Mesas externas · Ótimos coquetéis · Comida no bar",
+            "avaliacoes": "4,6 estrelas ",
+            "imagem": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxVnBteLRHf36Oibg-OhhI5c2HtKwB7YksDgRvubybvXcBCBmHbTVYI84fzfpK09qTzjCFHjO9zCkW8JnszGfPX-6rSzgpIr9w8iESUqDfauScCkxfUrc5Va2gL6HgOHMRW8ESd=w426-h240-k-no"
+        },
+        {
+            "id": 19,
+            "nome": "Churrascaria Chimarrão - Piripiri",
+            "descricao_curta": "Com um ambiente amplo, bem estruturado e acolhedor, o espaço agrada tanto famílias quanto grupos de amigos e também quem está apenas de passagem pela cidade.",
+            "descricao_longa": "A Churrascaria Chimarrão, em Piripiri, é uma referência quando o assunto é comida farta e de qualidade. Com um ambiente amplo, bem estruturado e acolhedor, o espaço agrada tanto famílias quanto grupos de amigos e também quem está apenas de passagem pela cidade. O cardápio é completo e variado, com destaque para as carnes bem preparadas, acompanhamentos saborosos e opções que atendem a todos os gostos. O bom atendimento, aliado à organização e ao conforto do local, faz da Chimarrão uma escolha certeira para quem busca uma refeição caprichada, prática e saborosa em qualquer ocasião.",
+            "endereco": "Rodovia Br 343 km: 192 - Zona Rural, Piripiri - PI, 64260-000",
+            "telefone": "  (86) 99957-7725",
+            "opcoes_servico": "Buffet à vontade · Mesas externas · Bom para assistir a esportes",
+            "avaliacoes": " 4,4 estrelas ",
+            "imagem": "https://lh3.googleusercontent.com/p/AF1QipMfqUUOg5MTiNyWGuKaYg2LNmElmHTW_Rwg4A6G=w428-h240-k-no"
+        },
+        {
+            "id": 20,
+            "nome": "Churrascaria Mangueirão",
+            "descricao_curta": "O cardápio valoriza pratos bem servidos, carnes saborosas e acompanhamentos tradicionais, sempre com um atendimento próximo e sem formalidades. ",
+            "descricao_longa": "A Churrascaria Mangueirão é um restaurante tradicional de bairro em Piripiri, conhecido pelo clima simples, acolhedor e familiar. Com um ambiente rústico e espaçoso, o local transmite aquela sensação de comida caseira e conversa tranquila, ideal para reunir a família ou encontrar os amigos no dia a dia. O cardápio valoriza pratos bem servidos, carnes saborosas e acompanhamentos tradicionais, sempre com um atendimento próximo e sem formalidades. O Mangueirão é uma ótima escolha para quem procura uma refeição honesta, saborosa e com aquele jeitinho de restaurante de bairro que conquista pela simplicidade e pelo sabor.",
+            "endereco": " R. Francisco das Chagas Freitas, 2-50 - 98534-7031 - Recreio, Piripiri ",
+            "telefone": " --------",
+            "opcoes_servico": "Tem mesas externas",
+            "avaliacoes": "4,2 estrelas ",
+            "imagem": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxwUBlF3kIA8KdBS8FQ1lDewu3I1nxSCUtUVeVyWB9lKkfmRGmcjVldnkwRmFL7EwChAAsewmr6y34fsA5_ofwUP4N13tpQ_qkIRcElz4mAXBO8k28nuIXyvrTdhvnuEXl9vdSC=w426-h240-k-no"
+        },
+        {
+            "id": 21,
+            "nome": "BomCheff Gastrobar",
+            "descricao_curta": "Com espaço amplo ao ar livre, iluminação charmosa e clima sofisticado, é ideal para encontros especiais e momentos de descontração.",
+            "descricao_longa": "O BomCheff Gastrobar oferece uma experiência gastronômica completa em um ambiente moderno e acolhedor. Com espaço amplo ao ar livre, iluminação charmosa e clima sofisticado, é ideal para encontros especiais e momentos de descontração. O cardápio combina pratos bem elaborados com drinks criativos e sabor marcante. Cada detalhe é pensado para proporcionar conforto, boa música e atendimento de qualidade. Um lugar para comer bem, relaxar e aproveitar boas companhias.",
+            "endereco": "Av. Dep. Raimundo Holanda, 1338 - Morro da Saudade, Piripiri",
+            "telefone": "(86) 99823-7137",
+            "opcoes_servico": "Pratos para happy hour · Ótimos coquetéis · Opções vegetarianas",
+            "avaliacoes": "4,5 estrelas",
+            "imagem": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwHDovU_xRY0kWxrrlTG688CskaowAgbXR51_uyx5ZLs5c-FTJRvXcT1Cq_VRTTMT2h1iXJa25H5601Dng-kqlpa2U6_aLJDKzMIf705RBRatQkuDQNBqdCiMtG0E2nT5LZzDoD=w408-h544-k-no"
+        },
+        {
+            "id": 22,
+            "nome": "Recanto piripiri",
+            "descricao_curta": "Os pratos valorizam sabores tradicionais, com tempero marcante e porções bem servidas.",
+            "descricao_longa": "O Recanto Piripiri é um restaurante de clima familiar, simples e acolhedor, perfeito para quem busca comida caseira bem feita. O ambiente é tranquilo e convidativo, ideal para almoços sem pressa ou encontros em família. Os pratos valorizam sabores tradicionais, com tempero marcante e porções bem servidas. O atendimento é atencioso e próximo, fazendo o cliente se sentir em casa. Um lugar onde a boa comida e a hospitalidade são o destaque.",
+            "endereco": "Av. Aderson Alves Ferreira, 843 - Centro, Piripiri ",
+            "telefone": "--------",
+            "opcoes_servico": "--------",
+            "avaliacoes": "4,5 estrelas",
+            "imagem": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSx04T1vdyggu6yrg5BIEvTRySu2wMm6fHIIaj7DDi9iK8p44BUGAUjGK1xByACHhlwyEtVmEtraozbfe603FGofjS7mkDcj6oqfhHfufGesbhnIzM6VQhjJCLAB2SDXJpeKOhgh=w408-h544-k-no"
+        },
+        {
+            "id": 23,
+            "nome": "Buffalos Grill Restaurante",
+            "descricao_curta": " O destaque fica para os grelhados, acompanhamentos bem servidos e sabor marcante.",
+            "descricao_longa": "O Buffalos Grill Restaurante é o lugar certo para quem aprecia carnes bem preparadas e refeições fartas. Com um ambiente simples e espaçoso, oferece mesas ao ar livre e clima descontraído, ideal para reunir amigos e família. O destaque fica para os grelhados, acompanhamentos bem servidos e sabor marcante. A proposta é direta: comida boa, cerveja gelada e atendimento sem frescura. Um ponto certeiro para quem gosta de churrasco e tradição.",
+            "endereco": " Av. Antero Rezende, 1605 - São João, Piripiri ",
+            "telefone": "(86) 99913-2354",
+            "opcoes_servico": "Tem mesas externas",
+            "avaliacoes": "4,4 estrelas",
+            "imagem": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxWOwO7zTDtCVq_CS2DIH2sLzDgUB4oBT4mQUAuQVZSNMmfQFjBt4x9kKdtZUOPfuEMXP5w8N5LvMzIIrksvrXG6Cz6-58JH-38-KZP-Buu4XztGxo14N4kwgrl3cnOUkXArFT0mF8tI28p=w408-h544-k-no"
+        }
+    ],
+    "sushi": [
+        {
+            "id": 25,
+            "nome": "KUROSHIRO Sushi Bar",
+            "descricao_curta": "Com um cardápio variado, oferece sushis bem montados, combinando frescor e criatividade em cada peça.Com um cardápio variado, oferece sushis bem montados, combinando frescor e criatividade em cada peça.",
+            "descricao_longa": "O Kuroshiro Sushi Bar é o destino ideal para quem aprecia a culinária japonesa de forma prática e saborosa. Com um cardápio variado, oferece sushis bem montados, combinando frescor e criatividade em cada peça. O ambiente é simples e funcional, focado na experiência gastronômica. Perfeito para quem busca uma refeição rápida, bem servida e cheia de sabor. Uma ótima opção para os amantes da comida oriental. 🍣✨",
+            "endereco": "  Rua Felinto Resende, 103 - Centro, Piripiri",
+            "telefone": "(86) 99503-5850",
+            "opcoes_servico": " mesas externas e opções vegetarianas ",
+            "avaliacoes": "4,3 estrelas",
+            "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTop4X5MbgOQ_-GYhace0qYR-iZ8U3-fgXdw&s"
+        },
+        {
+            "id": 26,
+            "nome": "Kiuri Sushi",
+            "descricao_curta": "O Kiuri Sushi é uma excelente escolha para quem aprecia a culinária japonesa com qualidade e muito sabor em Piripiri.",
+            "descricao_longa": "O Kiuri Sushi é uma excelente escolha para quem aprecia a culinária japonesa com qualidade e muito sabor em Piripiri. Localizado na Avenida Dr. Pádua Mendes, o restaurante oferece um cardápio diversificado, com sushis bem preparados, frescos e cheios de personalidade em cada combinação. O ambiente é prático e acolhedor, ideal para aproveitar uma boa refeição sem pressa ou para aquele momento mais rápido do dia a dia. Perfeito para quem busca comida oriental bem servida, saborosa e feita com capricho. ",
+            "endereco": "  Av. Dr. Pádua Mendes, 184 - Centro, Piripiri",
+            "telefone": "(88) 99263-5329",
+            "opcoes_servico": "Entrada com acessibilidade para pesssoas cadeirantes.",
+            "avaliacoes": "4,2 estrelas ",
+            "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2S1NAOHLqXap-qiD-rzcnyJnuD7Jvqdh3Fw&s"
+        }
+    ],
+    "sorveteria": [
+        {
+            "id": 33,
+            "nome": "Sorveteria Cremosa ",
+            "descricao_curta": "Com anos de história em Piripiri, a Cremosa se destaca pela variedade de sabores e pela qualidade que já faz parte da memória dos moradores.",
+            "descricao_longa": "A Sorveteria Cremosa é um verdadeiro clássico da cidade, conquistando gerações com seu sabor e tradição. Localizada na Avenida Anderson Alves Ferreira, ela chama atenção pelo visual totalmente voltado para o universo do sorvete, criando um ambiente alegre, colorido e convidativo. Com anos de história em Piripiri, a Cremosa se destaca pela variedade de sabores e pela qualidade que já faz parte da memória dos moradores. Um lugar perfeito para se refrescar, reviver boas lembranças e aproveitar um sorvete cheio de carinho e autenticidade. 🍦✨",
+            "endereco": "  Av. Anderson Alves Ferreira, 565 - Centro, Piripiri",
+            "telefone": "(86) 999315111",
+            "opcoes_servico": "Mesas externas.",
+            "avaliacoes": "4,5 estrelas ",
+            "imagem": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwSIwzKkRyZTe3NdEDi9qMwf4M04ggNg-Vk604VqNbWDG1rJokyLClM2R9LKcAn-Cq6JLAHVYhRpsxUDt4caZKKxd9WuB9Vt3EWUwPbKKQVJiSDBfFxNu95N3x1u-5vWq-vd4nV=s680-w680-h510-rw"
+        },
+        {
+            "id": 34,
+            "nome": "Milk Shake Mix Piripiri ",
+            "descricao_curta": "O Milk Shake Mix Piripiri é o point ideal para quem ama sabores gelados e criatividade no copo.",
+            "descricao_longa": "O Milk Shake Mix Piripiri é o point ideal para quem ama sabores gelados e criatividade no copo. Reunindo sorvetes, açaí e milk shakes deliciosos, o local oferece uma experiência refrescante e cheia de opções para todos os gostos. Com combinações que vão dos clássicos aos mais ousados, cada pedido é pensado para agradar tanto quem busca um lanche leve quanto quem quer um verdadeiro deleite gelado. Um lugar perfeito para um break saboroso no calor de Piripiri — seja sozinho, com amigos ou com a família. 🥤🍨🍇✨",
+            "endereco": "Rua Felinto Resende, 221 - Centro, Piripiri ",
+            "telefone": "(86) 99850-9871",
+            "opcoes_servico": "Espaço reservados para as crianças.",
+            "avaliacoes": "4,3 estrelas ",
+            "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ78Kc2dQFn8E-kkYcev0IOOqMOe9zxIFJUQ&s"
+        },
+        {
+            "id": 35,
+            "nome": "Puro Açaí Piripiri ",
+            "descricao_curta": "Conquistando fãs tanto pelo seu açaí cremoso e bem servido quanto pela variedade de sorvetes refrescantes.",
+            "descricao_longa": "A Puro Açaí é um dos lugares mais queridos de Piripiri para quem busca sabor e qualidade em cada colherada. Situada logo abaixo da Pizzaria Brasil, a casa é bastante frequentada pelos moradores e visitantes, conquistando fãs tanto pelo seu açaí cremoso e bem servido quanto pela variedade de sorvetes refrescantes. Com opções para todos os gostos e um clima descontraído, a Puro Açaí é parada obrigatória para quem quer se deliciar com um lanche doce e gelado, seja no fim de tarde ou a qualquer hora que bater à vontade. 🍧🍦🍇✨",
+            "endereco": " Av. Anderson Alves Ferreira, 47 - Centro, Piripiri",
+            "telefone": "(86) 99597-9000",
+            "opcoes_servico": "Variedade enorme de adicionais",
+            "avaliacoes": "4,6 estrelas",
+            "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUkGICf2c1YqlyGR69Ah2fYhTIptm9abzuoA&s"
+        },
+        {
+            "id": 36,
+            "nome": "Chiquinho Sorvetes ",
+            "descricao_curta": "Com um cardápio variado que agrada todas as idades, a Chiquinho oferece sorvetes e sobremesas que unem qualidade, sabor e tradição. ",
+            "descricao_longa": "A Chiquinho Sorvetes é uma marca reconhecida em todo o país e, em Piripiri, não poderia ser diferente. Localizada em frente à Praça da Bandeira, a unidade se destaca pelo ambiente moderno, agradável e bem organizado, ideal para momentos de lazer e descontração. Com um cardápio variado que agrada todas as idades, a Chiquinho oferece sorvetes e sobremesas que unem qualidade, sabor e tradição. Um ponto certo para quem quer aproveitar um doce especial em um dos lugares mais movimentados da cidade. 🍦✨",
+            "endereco": " Rua Felinto Resende, 177 - Centro, Piripiri ",
+            "telefone": "(86) 98855-8090",
+            "opcoes_servico": "Espaço climatizado ",
+            "avaliacoes": " 4,5 estrelas",
+            "imagem": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSweq-J7d-I5KTxIeVBqaEQyBcXYDPY2jQhuwwgVcti3_n-P5loJKuActs6dtIa-r0oQ2ruKl1gt0RAopToy_QN-pKwH0irONqWe3bXsmkpTNunKkPG7BWEqhTUVV1Wel4yYbCoaVw=w408-h306-k-no"
+        },
+        {
+            "id": 37,
+            "nome": "Frutos Goiáis Sorvetes ",
+            "descricao_curta": " A casa optou por oferecer picolés e sorvetes feitos com ingredientes naturais, destacando-se pela qualidade dos produtos e pela proposta de sabor autêntico sem artificialidades.",
+            "descricao_longa": "O Frutos de Goiás Piripiri é uma opção refrescante e saudável para os apaixonados por sabores mais leves e naturais. A casa optou por oferecer picolés e sorvetes feitos com ingredientes naturais, destacando-se pela qualidade dos produtos e pela proposta de sabor autêntico sem artificialidades. Com opções que combinam frutas frescas e combinações criativas, o Frutos de Goiás é perfeito para quem busca uma sobremesa gelada que une gostinho de natureza e refrescância. Uma escolha deliciosa para se refrescar nos dias quentes de Piripiri! 🍓🍍🍦🌿",
+            "endereco": " Av. Tomaz Rebelo, 388 - Centro, Piripiri",
+            "telefone": " (86) 99434-1762",
+            "opcoes_servico": "Grande variedade de sabores naturais ",
+            "avaliacoes": "5,0 estrelas ",
+            "imagem": "https://lh3.googleusercontent.com/p/AF1QipNMR5YOky7uOvv8ti9VzguSK5RzTWNXnt3ew_UN=w408-h544-k-no"
+        },
+        {
+            "id": 38,
+            "nome": "Villa Açaí",
+            "descricao_curta": "Seja para um lanche refrescante ou uma pausa doce no seu dia, o Villa Açaí se destaca pela qualidade e pela experiência agradável. ",
+            "descricao_longa": "O Villa Açaí é o destino perfeito para quem ama sobremesas geladas com estilo e sabor. No cardápio, você encontra açaís e sorvetes de todos os tipos, sempre bem recheados e servidos com capricho, trazendo combinações que agradam tanto os fãs do tradicional quanto os que buscam algo mais criativo. O espaço é aconchegante e bonito, proporcionando um ambiente acolhedor para curtir com amigos, família ou a dois. Seja para um lanche refrescante ou uma pausa doce no seu dia, o Villa Açaí se destaca pela qualidade e pela experiência agradável. 🍧🍦✨",
+            "endereco": "Av. Tomaz Rebelo, 864 - Centro, Piripiri ",
+            "telefone": "(86) 99520-6075",
+            "opcoes_servico": "Bem localizado no centro da cidade ",
+            "avaliacoes": "5,0 estrelas ",
+            "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRETZSJC0uTX-bg-WOSrYpPrNF9bzhxyuwyJQ&s"
+        },
+        {
+            "id": 39,
+            "nome": "Prime Açaí",
+            "descricao_curta": "Frequentado por quem gosta de um bom açaí — seja no estilo tradicional ou com acompanhamentos criativos — o espaço une qualidade, sabor e estética em um só lugar. ",
+            "descricao_longa": "O Prime Açaí é um lugar que se destaca em Piripiri por sua arquitetura amigável, organizada e diferenciada, criando um ambiente agradável que convida a ficar e aproveitar o momento. Frequentado por quem gosta de um bom açaí — seja no estilo tradicional ou com acompanhamentos criativos — o espaço une qualidade, sabor e estética em um só lugar. A organização e o visual único fazem do Prime Açaí uma parada certeira para quem quer saborear uma tigela gelada em um ambiente moderno e bem pensado, perfeito para bater papo e curtir com amigos e família. 🍧✨",
+            "endereco": "Av. Tomaz Rebelo, 975 - Centro, Piripiri ",
+            "telefone": "(86) 99987-0881",
+            "opcoes_servico": "Mesas externas.",
+            "avaliacoes": " 4,9 estrelas",
+            "imagem": "https://lh3.googleusercontent.com/p/AF1QipM4US4HX1obW8nGT7y_fclJrnstVpkVn18KxO4X=w408-h306-k-no"
+        },
+        {
+            "id": 40,
+            "nome": "Café com Açaí",
+            "descricao_curta": " Com um ambiente agradável e moderno, o espaço convida a aproveitar o momento com conforto e tranquilidade. ",
+            "descricao_longa": "O Café com Açaí é mais um exemplo de como Piripiri sabe valorizar essa especialidade que já virou marca da cidade . Com um ambiente agradável e moderno, o espaço convida a aproveitar o momento com conforto e tranquilidade. A casa se destaca pela qualidade dos produtos, conquistando os cidadãos que buscam um açaí bem preparado, saboroso e feito com capricho. Seja para uma pausa no dia ou para reunir os amigos, o Café com Açaí atrai pelo bom atendimento, pelo clima acolhedor e, claro, pelo sabor que já é tradição em Piripiri. 🍧☕✨",
+            "endereco": "Av. Tomaz Rebelo, 717 - Centro, Piripiri ",
+            "telefone": " (86) 99985-8698",
+            "opcoes_servico": "Mesas externas.",
+            "avaliacoes": "4,7 estrelas ",
+            "imagem": "https://lh3.googleusercontent.com/p/AF1QipPR1o__wbY7YyrdWUG_Kd_v_6oATMBUbS4IGHM1=w408-h544-k-no"
+        }
+    ],
+    "pracas": [
+        {
+            "id": 41,
+            "nome": "Praça da Bandeira",
+            "descricao_curta": " Nela acontecem diversos eventos ao longo do ano, como apresentações culturais e comemorações especiais, sendo o Natal dos Sonhos um exemplo dessas atividades. ",
+            "descricao_longa": "A Praça da Bandeira é o espaço mais frequentado de Piripiri e um dos principais pontos de encontro da cidade. Nela acontecem diversos eventos ao longo do ano, como apresentações culturais e comemorações especiais, sendo o Natal dos Sonhos um exemplo dessas atividades. Além disso, a praça é um ótimo local para passear, relaxar e encontrar amigos, contando com muitas opções ao redor para comer, se divertir e aproveitar o movimento. Um ambiente que reúne lazer, convivência e vida urbana no coração da cidade. 🌳✨",
+            "endereco": "Av. Tomaz Rebelo, 1-91 - Centro, Piripiri  ",
+            "telefone": " --------",
+            "opcoes_servico": "Brinquedos para crianças. Opções de alimentação nas proximidades. ",
+            "avaliacoes": "4,5 estrelas ",
+            "imagem": "https://piripirireporter.com/img_post/27212-125664808.jpg"
+        },
+        {
+            "id": 42,
+            "nome": "Praça das Almas",
+            "descricao_curta": "Um lugar que une tradição, convivência e a rotina urbana, ideal para uma pausa, um passeio tranquilo ou para apreciar um pouco da história local. ",
+            "descricao_longa": "A Praça das Almas é um espaço cheio de histórias e significado para Piripiri. Bem centralizada, ela faz parte do cotidiano da cidade e carrega memórias que atravessam gerações. Além de ser um ponto tradicional de encontro, a praça conta com locais ao redor para comer, tornando o ambiente ainda mais convidativo para quem passa por ali. Um lugar que une tradição, convivência e a rotina urbana, ideal para uma pausa, um passeio tranquilo ou para apreciar um pouco da história local. 🌳✨",
+            "endereco": "Av. Anderson Alves Ferreira, 279-343 - Centro, Piripiri ",
+            "telefone": "--------",
+            "opcoes_servico": "Restaurantes nas proximidades. Brinquedos para crianças.",
+            "avaliacoes": " 4,1 estrelas",
+            "imagem": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzodEr0ZV28yVKygtFZ1JQQwH_Wzvt0tpPs9xNY0p12MxD4GSkELz9HVMQ8ohXNBhi_Uy7c0cJIegzO5bi17KSXN-_iUWKgtvys0oOzJy-QrainSYZb-iB2LbLqytepgGkJyifJ=w408-h306-k-no"
+        },
+        {
+            "id": 43,
+            "nome": "Praça da Bíblia ",
+            "descricao_curta": "Com uma área bem espaçosa, ela se destaca como ponto de convivência e movimentação da cidade.",
+            "descricao_longa": "A Praça da Bíblia é um dos espaços mais amplos de Piripiri, ideal para a realização de eventos, encontros e atividades ao ar livre. Com uma área bem espaçosa, ela se destaca como ponto de convivência e movimentação da cidade. Além disso, o local carrega um ar de mistério, já que esconde lendas e histórias populares que o povo piripiriense gosta de contar, passando essas narrativas de geração em geração. Um espaço que mistura lazer, cultura e o imaginário popular, fazendo parte da identidade da cidade. 🌳✨",
+            "endereco": " Morro da Ana, Piripiri ",
+            "telefone": " --------",
+            "opcoes_servico": "Amplo espaço.",
+            "avaliacoes": "4,2 estrelas",
+            "imagem": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyk5wVbwhjtb2jH2cgUp3o85pLeQYGQqm-m2f2AW_IIOpGjblDSCzXBViAY70RrHxC3XC23NlS1lWkme7rnCPD10nGbZ_-t862P5tLHnhbOwSQRMpYwNZiSK8Nv5Wacq8CpO3Qg=w408-h306-k-no"
+        },
+        {
+            "id": 44,
+            "nome": "Praça da Saudade ",
+            "descricao_curta": " A praça conta com parquinho para as crianças, sendo um ótimo local para famílias, além de render belas fotos, graças ao verde e ao visual acolhedor.",
+            "descricao_longa": "A Praça da Saudade, localizada próxima à Avenida Castelo Branco, é um espaço bastante movimentado e muito querido pelos moradores. Bem arborizada, ela oferece um clima agradável para quem busca lazer e contato com a natureza. A praça conta com parquinho para as crianças, sendo um ótimo local para famílias, além de render belas fotos, graças ao verde e ao visual acolhedor. Um lugar perfeito para passear, relaxar e aproveitar bons momentos ao ar livre em Piripiri. 🌳📸✨",
+            "endereco": "Av. Pres. Castelo Branco, 108 - Morro da Saudade, Piripiri  ",
+            "telefone": " --------",
+            "opcoes_servico": "Parquinho para crianças. Trailer de lanches nas proximidades.",
+            "avaliacoes": "4,3 estrelas",
+            "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4oakZni1eBjFySk4HBpV4mDD6cjWw024HTQ&s"
+        },
+        {
+            "id": 45,
+            "nome": "Praça Joaquim Barbosa de Oliveira ",
+            "descricao_curta": "Simples e funcional, ela contribui para a dinâmica urbana da região, oferecendo um espaço para pausa, conversa e integração no dia a dia de quem circula por ali. ",
+            "descricao_longa": "A Praça Joaquim Barbosa de Oliveira, localizada próxima à Rodoviária de Piripiri, é um ponto importante de apoio e convivência na cidade. Por estar em uma área estratégica, a praça recebe um fluxo constante de pessoas, sendo um local de passagem, descanso e encontro. Simples e funcional, ela contribui para a dinâmica urbana da região, oferecendo um espaço para pausa, conversa e integração no dia a dia de quem circula por ali. 🌳✨",
+            "endereco": "Terminal Rodoviário de - Garibaldi, Piripiri ",
+            "telefone": " --------",
+            "opcoes_servico": "Possui local para pegar água.",
+            "avaliacoes": "4,0 estrelas ",
+            "imagem": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSy3TyhU6TdeVL2qZmdEtMcTh2R2Gr1AWvU6Kg_-OknzRDl29Hv4zTCg0CQqDHimibkTDh2tOhEvalB1d1YNjEbOUQOKtPImi5VwQi52KY_gBFFcg7wBrMq2s3H-_sROjHKSuUVkBZ6SidMW=w408-h306-k-no"
+        },
+        {
+            "id": 46,
+            "nome": "Praça de Eventos Arimatéia Sousa ",
+            "descricao_curta": " Conhecida por sediar muitos dos grandes eventos da cidade, ela reúne moradores e visitantes em momentos marcantes da vida cultural local.",
+            "descricao_longa": "A Praça de Eventos Arimatéia Sousa é um dos principais espaços de celebração e diversão de Piripiri. Conhecida por sediar muitos dos grandes eventos da cidade, ela reúne moradores e visitantes em momentos marcantes da vida cultural local. Além disso, é uma praça histórica, carregada de significado e memória para o povo piripiriense. Com sua proposta voltada ao lazer e às festividades, o espaço se consolida como um ponto de encontro onde história, cultura e entretenimento caminham juntos. 🎉✨",
+            "endereco": "R. Luiz Gonzaga Andrade Filho, 126, Estação - Piripiri ",
+            "telefone": " --------",
+            "opcoes_servico": "Amplo espaço.",
+            "avaliacoes": "4,0 estrelas ",
+            "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEHRSkPQUWuG-wp8q6FwVT-g2KoT8QT4PY6Q&s"
+        },
+        {
+            "id": 47,
+            "nome": "Praça Nelson Carneiro",
+            "descricao_curta": "Com quadras para esportes e áreas ideais para caminhada, a praça se tornou um ponto de encontro para quem busca saúde, bem-estar e convivência. ",
+            "descricao_longa": "A Praça Nelson Carneiro é um espaço recente e bastante movimentado em Piripiri, especialmente por oferecer opções voltadas ao lazer e à prática de atividades físicas. Com quadras para esportes e áreas ideais para caminhada, a praça se tornou um ponto de encontro para quem busca saúde, bem-estar e convivência. Além disso, é conhecida por receber o parque de diversões durante o festejo de Piripiri, o que aumenta ainda mais o movimento e a animação do local. Um espaço moderno que une esporte, lazer e diversão para todas as idades. 🌳🏀🎡✨",
+            "endereco": " R. Benedito José da Silva, 167 - Estação, Piripiri  ",
+            "telefone": " --------",
+            "opcoes_servico": "Mesas externas.",
+            "avaliacoes": "4,9 estrelas  ",
+            "imagem": "https://dia.portalodia.com/media/editor/whatsapp-image-2021-07-07-at-170155-1-11625734129.jpg"
+        },
+        {
+            "id": 48,
+            "nome": "Estátua de Nossa Senhora dos Remédios ",
+            "descricao_curta": " Além do valor religioso e cultural, a praça conta com estabelecimentos ao redor voltados para lazer e diversão, o que atrai moradores e visitantes ao longo do dia.",
+            "descricao_longa": "A praça onde fica a Estátua de Nossa Senhora dos Remédios é um dos locais mais simbólicos e movimentados de Piripiri. Por estar em um ponto alto da cidade, o espaço oferece uma vista privilegiada de cima, rendendo um visual bonito e marcante. Além do valor religioso e cultural, a praça conta com estabelecimentos ao redor voltados para lazer e diversão, o que atrai moradores e visitantes ao longo do dia. Um lugar que une fé, convivência e paisagem, sendo parada obrigatória para quem quer apreciar Piripiri de um outro ângulo. 🌄✨",
+            "endereco": " R. Cap Manoel de Oliveira, 37-85 - Morro da Saudade, Piripiri ",
+            "telefone": " --------",
+            "opcoes_servico": "Lindo pôr do sol",
+            "avaliacoes": "4,8 estrelas ",
+            "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUY2EnL6d4u3Bs1dFeouzvph5vA4swm9ojJg&s"
+        }
+    ],
+    "igrejas": [
+        {
+            "id": 49,
+            "nome": "Paróquia Nossa Senhora Dos Remédios",
+            "descricao_curta": "Considerada a principal paróquia, ela é um ponto central de fé, devoção e encontro da comunidade. ",
+            "descricao_longa": "A Paróquia Nossa Senhora dos Remédios é um dos principais símbolos religiosos de Piripiri, reunindo grande parte da população católica da cidade. Considerada a principal paróquia, ela é um ponto central de fé, devoção e encontro da comunidade. Com um estilo antigo e cheio de história, a igreja se destaca pela sua beleza e, ao mesmo tempo, por estar bem cuidada e preservada, mantendo vivo o seu valor cultural e espiritual. O ambiente é agradável, acolhedor e propício à oração, tornando o espaço especial para momentos de fé e reflexão. ✨⛪",
+            "endereco": "Av. Tomaz Rebelo, 254 - Centro, Piripiri  ",
+            "telefone": " (86) 99591-7806",
+            "opcoes_servico": "Santa missa todos os dias às 19h00. Domingo às 06h,08h,17h e 19h. ",
+            "avaliacoes": "4,8 estrelas ",
+            "imagem": "https://assets.ofertorio.com/90/a36fa2cf1f6132cae92a5a16aa76801f.png"
+        },
+        {
+            "id": 50,
+            "nome": "Congregação Cristã no Brasil - Piripiri ",
+            "descricao_curta": "O templo oferece um ambiente agradável, belo e acolhedor, ideal para momentos de oração, reflexão e comunhão. ",
+            "descricao_longa": "A Congregação Cristã no Brasil – Piripiri é um importante lugar de fé e espiritualidade para a comunidade local. O templo oferece um ambiente agradável, belo e acolhedor, ideal para momentos de oração, reflexão e comunhão. Com uma atmosfera de respeito e simplicidade, o espaço reúne fiéis em busca de fortalecimento espiritual, sendo um ponto significativo da vida religiosa de Piripiri. Um local marcado pela devoção, tranquilidade e sentimento de união. ✨🙏",
+            "endereco": " R. Cap Manoel de Oliveira, 37-85 - Morro da Saudade, Piripiri ",
+            "telefone": " --------",
+            "opcoes_servico": "Aberta terça às 19h.",
+            "avaliacoes": "4,7 estrelas  ",
+            "imagem": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyfDnlZ56Lj2NBA9qZGLkEcLK489WRn5eA_uQqO1Uin3-dMhbQjeDqW0tmv_hVtw2s7w70B5PAAGbgaDLtdW_mRaneoLMdPyhQh6XnTqc4bXl4Uu7Q5K__0yV_TWbiqOmuCw9ZBjA=w426-h240-k-no"
+        },
+        {
+            "id": 51,
+            "nome": "Santuário Nossa Senhora do Perpétuo Socorro ",
+            "descricao_curta": "O local reúne fiéis em momentos de oração e celebração, fortalecendo a espiritualidade da comunidade.",
+            "descricao_longa": "O Santuário Nossa Senhora do Perpétuo Socorro é um dos importantes espaços de fé e devoção de Piripiri. O local reúne fiéis em momentos de oração e celebração, fortalecendo a espiritualidade da comunidade. Além do seu valor religioso, o santuário se destaca por ser um ambiente bonito e bem cuidado, proporcionando um clima de paz, acolhimento e reflexão. Um lugar especial que une fé, tranquilidade e beleza, fazendo parte da vivência religiosa da cidade. ✨⛪",
+            "endereco": "  R. Emídio Mendes de Souza, 86 - São João, Piripiri  ",
+            "telefone": " Celebração da palavras aos domingos 19h",
+            "opcoes_servico": "Lindo pôr do sol",
+            "avaliacoes": "5,0 estrelas  ",
+            "imagem": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyW2VksHhFQrABFh9x4Bl5F6xjVJmXFC-BKMksatNngowPJZUvTrNXI7eK19Tay12aejzepW5SVi9flhCM3vQ6dD_XGt1ZKZtaZ7XMsoUvC1QYaO8h7SJvHUMIWy1wrwOjJKuo0=w408-h306-k-no"
+        },
+        {
+            "id": 52,
+            "nome": "Assembleia de Deus em Piripiri - Missão Comadesma",
+            "descricao_curta": "Além de seu papel espiritual, a igreja se destaca como um ponto de encontro da comunidade, fortalecendo valores, esperança e união entre os participantes.",
+            "descricao_longa": "A Assembleia de Deus em Piripiri – Missão COMADESMA é um espaço dedicado à paz, espiritualidade e comunhão, reunindo fiéis em momentos de fé e louvor. Com uma estrutura moderna e confortável, o local oferece um ambiente acolhedor, pensado para proporcionar bem-estar e tranquilidade durante os cultos e atividades religiosas. Além de seu papel espiritual, a igreja se destaca como um ponto de encontro da comunidade, fortalecendo valores, esperança e união entre os participantes. ✨🙏",
+            "endereco": "Av. Anderson Alves Ferreira, 102 - Centro, Piripiri  ",
+            "telefone": " --------",
+            "opcoes_servico": "Aberto sexta às 19h.",
+            "avaliacoes": "4,6 estrelas",
+            "imagem": "https://lh3.googleusercontent.com/p/AF1QipMpBagddwh79ZcFeBk7E40G5vFdGVI4e82YCt-g=w408-h408-k-no"
+        },
+        {
+            "id": 53,
+            "nome": "Paróquia São Francisco de Assis",
+            "descricao_curta": "Conhecida por seus festejos religiosos, que reúnem a comunidade em momentos de oração e celebração, a paróquia fortalece a espiritualidade e a união dos fiéis.",
+            "descricao_longa": "A Paróquia São Francisco de Assis, localizada no bairro São João, é um importante espaço de fé e devoção para o povo piripiriense. Conhecida por seus festejos religiosos, que reúnem a comunidade em momentos de oração e celebração, a paróquia fortalece a espiritualidade e a união dos fiéis. O ambiente é confortável, acolhedor e repleto de fé, proporcionando tranquilidade e bem-estar para quem participa das celebrações. Um lugar marcado pela devoção, pela convivência comunitária e pelo espírito franciscano. ✨🙏",
+            "endereco": "R. Des. Antero Resende, 1444 - São João, Piripiri  ",
+            "telefone": " (86) 98905-5361",
+            "opcoes_servico": "Santa missa aos domingos 7h e 17h.",
+            "avaliacoes": "4,8 estrelas ",
+            "imagem": "https://i.pinimg.com/736x/a5/c6/f0/a5c6f0d831335825410508a5f9b813f3.jpg"
+        },
+        {
+            "id": 54,
+            "nome": "Igreja Filadélfia Central ",
+            "descricao_curta": "O ambiente é agradável e acolhedor, proporcionando aos fiéis um local propício para adoração, reflexão e fortalecimento da fé. ",
+            "descricao_longa": "A Igreja Filadélfia Central é um espaço que une fé e conforto em um só lugar, acolhendo a comunidade em momentos de comunhão e espiritualidade. Conhecida por transmitir a palavra de Deus por meio de cultos e eventos, a igreja se destaca pelo compromisso com o ensino bíblico e pela organização de suas atividades. O ambiente é agradável e acolhedor, proporcionando aos fiéis um local propício para adoração, reflexão e fortalecimento da fé. ✨🙏",
+            "endereco": " R. Osvaldo Cruz - Centro, Piripiri ",
+            "telefone": " (86) 99933-3600",
+            "opcoes_servico": "Amplo espaço para cultos.",
+            "avaliacoes": "5,0 estrelas  ",
+            "imagem": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwi3CUEn-SRaQ1e216OF6ixBi7um2ozbPWRp7XZZlxq9m20IMGRgG83n1buE0Ba9-Fp7ioLtEwTmL4M5XzfIc0VqaDowNGwv11jEOllWpGtSpMFWB6A3Cg35D9yhqt7sz-Ix0t5=w520-h240-k-no"
+        },
+        {
+            "id": 55,
+            "nome": "Capela de Santa Teresinha ",
+            "descricao_curta": "Um lugar marcado pela espiritualidade, pelo acolhimento e pela vivência da fé no dia a dia do bairro. ",
+            "descricao_longa": "A Capela de Santa Teresinha, localizada no bairro Floresta, é um espaço simples e acolhedor que reúne a comunidade em momentos de fé e devoção. Com um ambiente tranquilo e cheio de significado religioso, a capela se destaca como um ponto importante de oração e encontro para os moradores da região. Um lugar marcado pela espiritualidade, pelo acolhimento e pela vivência da fé no dia a dia do bairro. ✨🙏",
+            "endereco": " Av. Dirceu Mendes Arcoverde - Floresta, Piripiri ",
+            "telefone": " --------",
+            "opcoes_servico": "Amplo espaço no pátio. Igreja climatizada.",
+            "avaliacoes": "4,7 estrelas ",
+            "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7Wlf7GKgtvjT2z1iYBHXYf4nJlhWAUGD9GQ&s"
+        },
+        {
+            "id": 56,
+            "nome": "A Igreja de Jesus Cristo dos Santos dos Últimos Dias",
+            "descricao_curta": "Além de sua proposta espiritual, a igreja simboliza como Piripiri é uma cidade que acolhe diferentes religiões, valorizando o respeito, a convivência e a diversidade de fé entre sua população.",
+            "descricao_longa": "A Igreja de Jesus Cristo dos Santos dos Últimos Dias é um espaço que se destaca por sua estrutura ampla e bem organizada, oferecendo conforto e tranquilidade para quem a frequenta. O local é bem arejado, conta com plantas que tornam o ambiente ainda mais agradável e dispõe de salas destinadas às crianças, onde elas aprendem sobre a religião de forma educativa e acolhedora. Além de sua proposta espiritual, a igreja simboliza como Piripiri é uma cidade que acolhe diferentes religiões, valorizando o respeito, a convivência e a diversidade de fé entre sua população. ✨🌿🙏",
+            "endereco": " R. Cel. Antônio Coelho, 450 - Centro, Piripiri ",
+            "telefone": " --------",
+            "opcoes_servico": "Pluralidade de pessoas.",
+            "avaliacoes": "4,3 estrelas  ",
+            "imagem": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzRIcjhkjXEI_uidhmzhow8S693Z3st_Xv4NNb20dnx03qYe1Vg3z_5Np7I-RL2rGSj3KvHagjZfcup2LMj2Ht0udDw77lq3Z2n6n5x8d9EJDFTQemC3METOzavEtuD92otNK9213IADaM=w408-h306-k-no"
+        }
+    ],
+    "esportes": [
+        {
+            "id": 57,
+            "nome": "Arena Sportsbeach ",
+            "descricao_curta": "Mesmo sendo um local pago, oferece um preço justo, compatível com a estrutura e a experiência proporcionada. ",
+            "descricao_longa": "A Arena Sportsbeach é um espaço de diversão e esporte em Piripiri, ideal para quem gosta de se movimentar e praticar atividades ao ar livre. Mesmo sendo um local pago, oferece um preço justo, compatível com a estrutura e a experiência proporcionada. A arena conta com quadras de areia, perfeitas para a prática de beach tênis, vôlei e outros esportes na areia, atraindo tanto iniciantes quanto praticantes mais experientes. Um ambiente animado, bem estruturado e pensado para quem busca lazer, saúde e bons momentos com amigos. 🏖️🎾🏐✨",
+            "endereco": "Av. João Bandeira Monte, 1900 - São João, Piripiri  ",
+            "telefone": "(86) 99806-8159",
+            "opcoes_servico": "Espaço amplo com quadras de areia.",
+            "avaliacoes": "4,9 estrelas",
+            "imagem": "https://lh3.googleusercontent.com/p/AF1QipMEQ0ONb0558Jn_fs_0fX-F1u6yc1-QfhYxka5l=w408-h306-k-no"
+        },
+        {
+            "id": 58,
+            "nome": "FutPark ",
+            "descricao_curta": "Com uma quadra de grama bem cuidada, o espaço oferece boas condições para partidas animadas entre amigos. ",
+            "descricao_longa": "O FutPark é o lugar ideal para os amantes do futebol em Piripiri. Com uma quadra de grama bem cuidada, o espaço oferece boas condições para partidas animadas entre amigos. Além disso, se destaca pelo preço acessível, o que o torna ainda mais atrativo, e por ser muito frequentado pela comunidade. Um ambiente perfeito para quem quer praticar esporte, se divertir e viver a paixão pelo futebol em um espaço organizado e acolhedor. ⚽✨",
+            "endereco": " R. Freitas Júnior - Centro, Piripiri  ",
+            "telefone": " (86) 99802-7313 ",
+            "opcoes_servico": "Opções de lanches no local. ",
+            "avaliacoes": "4,7 estrelas  ",
+            "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUJSOFbjrbttdZ5tKf5FgtEUZ98fZMkvtPaA&s"
+        },
+        {
+            "id": 60,
+            "nome": "Sesc Ler Piripiri ",
+            "descricao_curta": " Voltado à educação, o local também valoriza o esporte e o desempenho dos alunos, incentivando a formação integral por meio do conhecimento, da prática esportiva e da convivência.",
+            "descricao_longa": "O SESC Ler Piripiri é um espaço essencial para o aprendizado e o desenvolvimento na cidade. Voltado à educação, o local também valoriza o esporte e o desempenho dos alunos, incentivando a formação integral por meio do conhecimento, da prática esportiva e da convivência. Além disso, é um espaço público, acessível à comunidade, que contribui para a educação, o lazer e o crescimento pessoal. Um ambiente que une ensino, disciplina, esporte e oportunidades para crianças e jovens de Piripiri. 📚🏃‍♂️✨",
+            "endereco": "R. Gerônimo Bezerra, 171 - Floresta, Piripiri ",
+            "telefone": " (11) 3322-0050",
+            "opcoes_servico": "Escolinha de esportes.",
+            "avaliacoes": "4,1 estrelas",
+            "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcfaXEbtF0MuFGIWWVYgpErp_0jcgMvtt2lg&s"
+        },
+        {
+            "id": 61,
+            "nome": "Escolinha de Futsal Piripiriense ",
+            "descricao_curta": "Formações rochosas e trilhas históricas.",
+            "descricao_longa": "A Escolinha de Futsal Piripiriense é um importante espaço de formação esportiva para crianças e jovens que desejam se aprimorar no futsal. Com o acompanhamento de professores qualificados, os alunos recebem orientação técnica, disciplina e incentivo ao trabalho em equipe. Além dos treinos, a escolinha também realiza pequenos campeonatos, que ajudam a reforçar o espírito de competição saudável, o aprendizado e a vivência prática do esporte. Um ambiente que une educação, esporte e desenvolvimento pessoal, contribuindo para a formação de novos talentos em Piripiri. ⚽✨",
+            "endereco": " Rua Olavo Bilac, 224 - Centro, Piripiri",
+            "telefone": " (86) 99957-9645",
+            "opcoes_servico": "Treinamento especializado para crianças e jovens.",
+            "avaliacoes": "5,0 estrelas ",
+            "imagem": "https://lh3.googleusercontent.com/p/AF1QipO2qfGiItDFLgV2iJx6LKKuDB2ofjS4YpsqR4zt=w408-h725-k-no"
+        },
+        {
+            "id": 62,
+            "nome": "Arena M3",
+            "descricao_curta": "Com variedade de modalidades praticadas na areia, o local é ideal para quem gosta de se movimentar, competir ou simplesmente se divertir com os amigos. ",
+            "descricao_longa": "A Arena M3 é uma arena moderna que vem se destacando em Piripiri como um espaço de diversão e esporte. Com variedade de modalidades praticadas na areia, o local é ideal para quem gosta de se movimentar, competir ou simplesmente se divertir com os amigos. Além da boa estrutura, a Arena M3 oferece um ótimo custo-benefício, tornando o acesso mais fácil para diferentes públicos. Um ambiente animado, bem organizado e perfeito para unir lazer, esporte e bons momentos. ",
+            "endereco": "R. Projetada 121, 43 - Fonte dos Matos, Piripiri ",
+            "telefone": "  (86) 99917-5267",
+            "opcoes_servico": "Espaço amplo com quadras de areia.",
+            "avaliacoes": "4,8 estrelas ",
+            "imagem": "https://lh3.googleusercontent.com/p/AF1QipNJd48n9xFAtn-4P6GFF0TqqoWQxLNCcMPHpDQB=w408-h391-k-no"
+        },
+        {
+            "id": 63,
+            "nome": "AABB de Piripiri ",
+            "descricao_curta": " O espaço oferece um ambiente agradável para momentos de convivência, descanso e diversão em família ou com amigos. ",
+            "descricao_longa": "A AABB de Piripiri é um clube voltado para a descontração e o lazer, atendendo pessoas de todas as idades. O espaço oferece um ambiente agradável para momentos de convivência, descanso e diversão em família ou com amigos. Além disso, conta com quadras para a prática de esportes variados, incentivando atividades físicas e a integração entre os frequentadores. Um local que une lazer, esporte e bem-estar, sendo uma ótima opção para aproveitar o tempo livre em Piripiri. 🏟️✨",
+            "endereco": " Av. Pres. Castelo Branco, 733 - Morro da Saudade, Piripiri ",
+            "telefone": " (86) 99968-3553",
+            "opcoes_servico": "Piscina, quadras esportivas e área de lazer.",
+            "avaliacoes": "4,5 estrelas ",
+            "imagem": "https://storage.alboom.ninja/sites/1743/albuns/62148/dji_0018.jpg?1477924851"
+        },
+        {
+            "id": 64,
+            "nome": "Estádio Municipal Ytacoatiara ",
+            "descricao_curta": " É nele que acontecem os jogos do time da cidade, o 4 de Julho, reunindo torcedores e fortalecendo a paixão pelo futebol. ",
+            "descricao_longa": "O Estádio Municipal Ytacoatiara é o principal palco esportivo de Piripiri e tem grande importância para o esporte local. É nele que acontecem os jogos do time da cidade, o 4 de Julho, reunindo torcedores e fortalecendo a paixão pelo futebol. Com uma atmosfera animada, o estádio é um ótimo lugar para assistir a uma partida ao vivo, sentindo de perto a emoção, a vibração da torcida e o espírito esportivo. Um espaço que representa o orgulho esportivo piripiriense e valoriza o futebol da cidade. ⚽🏟️✨",
+            "endereco": "1467, R. Prof. Bem, 1379 - Estação, Piripiri  ",
+            "telefone": "(86) 99544-8556",
+            "opcoes_servico": "Espaço para eventos esportivos.",
+            "avaliacoes": "3,8 estrelas ",
+            "imagem": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxOHxasvLkylRAgk5V2owoG5WcnFWRkt2XORVJGmwJmWXfUcBb84LN7pYcGQwNdTkjjFkk7yVbVOsnT2-xVMo7tdWMw-Stkj125nKYecbasBhwya7DINxa5nqGqMj64DvWfbAc=w408-h307-k-no"
+        }
+    ],
+    "banhos": [
+        {
+            "id": 65,
+            "nome": "Balneário Águas Espraiadas ",
+            "descricao_curta": "O Balneário Águas Espraiadas é um dos principais lugares para banho e lazer em Piripiri, muito procurado por moradores e visitantes. ",
+            "descricao_longa": "O Balneário Águas Espraiadas é um dos principais lugares para banho e lazer em Piripiri, muito procurado por moradores e visitantes. Localizado na região do Açude Caldeirão, o espaço oferece contato direto com a natureza, águas refrescantes e um clima ideal para relaxar. Bastante bem avaliado e frequentado, o balneário é perfeito para curtir com a família ou amigos, seja para um banho tranquilo ou para passar o dia aproveitando o ambiente. Além disso, conta com estrutura de apoio, como áreas para descanso e opções de alimentação, tornando a experiência ainda mais completa. Um verdadeiro refúgio natural para quem busca diversão e descanso em Piripiri. 🌿💦✨",
+            "endereco": " Açulde Caldeirão - Rodovia PI - 327, Povoado Banda, 481 - Zona Rural, Piripiri ",
+            "telefone": "(86) 98809-1639",
+            "opcoes_servico": "Mesas Externas . ótimos coquetéis",
+            "avaliacoes": " 4,5 estrelas ",
+            "imagem": "https://lh3.googleusercontent.com/p/AF1QipOjvVivii1lqG5nMRwrz6vDAok5k7czjIMKom8U=w426-h240-k-no"
+        },
+        {
+            "id": 66,
+            "nome": "Balneário Espaço Bom",
+            "descricao_curta": "O balneário conta com estrutura de apoio, como área coberta, mesas e opções de alimentação, o que torna a experiência ainda mais confortável.",
+            "descricao_longa": "O Balneário Espaço Bom é mais uma ótima opção de lazer e banho em Piripiri, muito procurada por quem deseja relaxar e curtir a natureza. Bastante bem avaliado e frequentado, o local oferece um ambiente simples e agradável, ideal para passar o dia com amigos ou família. Além do espaço para banho, o balneário conta com estrutura de apoio, como área coberta, mesas e opções de alimentação, o que torna a experiência ainda mais confortável. Um lugar perfeito para quem gosta de aproveitar um bom banho, boa companhia e momentos de descanso em meio ao clima tranquilo da região. 💦🌿✨",
+            "endereco": "Piripiri, Piauí",
+            "telefone": " --------",
+            "opcoes_servico": "Piscina e cardápio variado.",
+            "avaliacoes": "4,4 estrelas ",
+            "imagem": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwmd_uq9p_atLUb25gWf-cQmtVCPSZqax7ZXqBgN8WGEQYPWSdg0U5EE7yNaQFclwaxDKCVrMrpvSKNeB7wtyMRbYpsGkyVGqamriw5OWho9HTAXUSb2FneQsLoDMsD9A1Yo9NY=w426-h240-k-no"
+        },
+        {
+            "id": 67,
+            "nome": "Cachoeira Birindibas ",
+            "descricao_curta": "Bastante procurada por visitantes, o local encanta com suas quedas d’água, trilhas e paisagens verdes, sendo uma ótima opção para passeios ao ar livre. ",
+            "descricao_longa": "A Cachoeira Birindibas é um verdadeiro refúgio natural em Piripiri, ideal para quem busca contato com a natureza, tranquilidade e aventura. Bastante procurada por visitantes, o local encanta com suas quedas d’água, trilhas e paisagens verdes, sendo uma ótima opção para passeios ao ar livre. A experiência envolve caminhada, banho refrescante e momentos de descanso em meio ao som da água e da natureza. Bem avaliada por quem conhece, a Cachoeira Birindibas é perfeita para quem gosta de explorar belezas naturais e aproveitar um ambiente simples, preservado e cheio de charme. 🌿💦✨",
+            "endereco": " Piripiri, Piauí",
+            "telefone": " --------",
+            "opcoes_servico": "Lugar tranquilo para relaxar.",
+            "avaliacoes": "4,6 estrelas ",
+            "imagem": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSy9q7ZvFvftAPx30DJkRtNnoxxsI3PbhHp_8BRqJQQ_ZYCGdcluYb7FzHM09unfP1COykQkLveCXjLJXarAVR61IbkHo_KHfLL-oCKSFYLuD2NlUMynwSuK7slZl-qBPetc9fS1NQ=w408-h306-k-no"
+        },
+        {
+            "id": 68,
+            "nome": "Açulde Caldeirão",
+            "descricao_curta": "Muito visitado por moradores e turistas, o local se destaca por suas águas extensas, paisagens bonitas e clima agradável, ideal para banho, passeios e encontros em família ou com amigos. ",
+            "descricao_longa": "O Açude Caldeirão é um dos principais cartões-postais naturais de Piripiri, no Piauí, sendo um destino perfeito para quem busca lazer, contato com a natureza e momentos de tranquilidade. Muito visitado por moradores e turistas, o local se destaca por suas águas extensas, paisagens bonitas e clima agradável, ideal para banho, passeios e encontros em família ou com amigos. O ambiente convida ao descanso, à contemplação da natureza e também à diversão, especialmente nos fins de semana. Bem avaliado por quem conhece, o Açude Caldeirão é uma ótima opção para aproveitar um dia ao ar livre em um cenário simples, acolhedor e cheio de beleza natural. 🌊🌿☀️",
+            "endereco": "Piripiri, Piauí ",
+            "telefone": " --------",
+            "opcoes_servico": "Lindo pôr do sol . Ótimo para passeios em família.",
+            "avaliacoes": "4,9 estrelas ",
+            "imagem": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSz89YQ3BFr4JMsnInDjo_r7-tfkm5gdB85-TbR0jArO3Qj9Ftpd_aL0vhJqQNZ4naixEhxGy3SSg5qTMXzSexYXESJXptoDqsfc-dx5Np8Mb2Cs-7CeZP1jx4ZhXpurmuARgWpd=w426-h240-k-no"
+        },
+        {
+            "id": 69,
+            "nome": "Park & Resort King Shark ",
+            "descricao_curta": "É perfeito tanto para relaxar quanto para aproveitar o dia com atividades aquáticas e boa comida. ",
+            "descricao_longa": "O Park & Resort King Shark é um espaço de lazer completo em Piripiri, ideal para quem procura diversão, conforto e momentos inesquecíveis em família ou com amigos. Muito procurado por visitantes, o local conta com piscinas, áreas recreativas, estrutura organizada e opções de alimentação, proporcionando um ambiente animado e acolhedor. É perfeito tanto para relaxar quanto para aproveitar o dia com atividades aquáticas e boa comida. Bem avaliado por quem já visitou, o Park & Resort King Shark se destaca como uma excelente opção para curtir, descansar e se divertir em um só lugar. 🌊🏖️🍹✨",
+            "endereco": "  Lot. Localidade Nova Brasília S/N - ZONA RURAL, Piripiri ",
+            "telefone": " (86) 99951-4778",
+            "opcoes_servico": "Piscinas, toboáguas e área de lazer.",
+            "avaliacoes": "4,5 estrelas",
+            "imagem": "https://lh3.googleusercontent.com/p/AF1QipPbG6BP-s2BH3YWJgJfYyyXdMCJNFjZ0SK1O3s-=w408-h306-k-no"
+        },
+        {
+            "id": 70,
+            "nome": "Sítio Bom Sossego ",
+            "descricao_curta": "Bastante conhecido por seu clima acolhedor, o local oferece um ambiente familiar, com áreas verdes, mesas externas e uma atmosfera de paz que conquista logo na chegada.",
+            "descricao_longa": "O Sítio Bom Sossego é um refúgio de tranquilidade em Piripiri, perfeito para quem deseja desacelerar e aproveitar momentos agradáveis em meio à natureza. Bastante conhecido por seu clima acolhedor, o local oferece um ambiente familiar, com áreas verdes, mesas externas e uma atmosfera de paz que conquista logo na chegada. O restaurante é um dos destaques, com comida saborosa, atendimento elogiado e aquele jeitinho caseiro que faz o visitante se sentir em casa. Muito procurado para almoços de fim de semana e encontros em família, o Sítio Bom Sossego é ideal tanto para relaxar quanto para curtir uma boa refeição em um cenário calmo e harmonioso. Bem avaliado por quem visita, é uma excelente opção para quem busca sossego, boa comida e momentos especiais. 🌿🍽️✨˜",
+            "endereco": " Piripiri, Piauí ",
+            "telefone": "  (86) 99905-8378",
+            "opcoes_servico": " Mesas externas ",
+            "avaliacoes": "4,5 estrelas ",
+            "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS_K-9glwb-DTU4WK41I4X8Tr50R0iXQWUsw&s"
+        },
+        {
+            "id": 71,
+            "nome": "Cachoeira do Olho D’água dos João Domingos ",
+            "descricao_curta": "Muito visitada por amantes de trilhas e banhos naturais, a cachoeira encanta com suas águas correntes, paisagem preservada e clima refrescante, perfeito para relaxar e se reconectar.",
+            "descricao_longa": "A Cachoeira do Olho D’água dos João Domingos é um verdadeiro tesouro natural de Piripiri, ideal para quem busca contato direto com a natureza, tranquilidade e momentos de lazer ao ar livre. Muito visitada por amantes de trilhas e banhos naturais, a cachoeira encanta com suas águas correntes, paisagem preservada e clima refrescante, perfeito para relaxar e se reconectar. O local é bastante elogiado pela beleza natural e pela sensação de paz que proporciona, sendo uma ótima opção para passeios em família, com amigos ou até para quem deseja curtir um momento mais sossegado. Bem avaliada por quem já visitou, a Cachoeira do Olho D’água dos João Domingos se destaca como um lugar especial para descansar, se refrescar e apreciar as belezas naturais do Piauí. 🌿💦✨",
+            "endereco": " Piripiri, Piauí",
+            "telefone": " --------",
+            "opcoes_servico": "Local limpo e tranquilo para relaxar.",
+            "avaliacoes": "4,8 estrelas ",
+            "imagem": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwsTdalyCSNY1YehAuXX0QCgnrrzL4BT5AMbHfH8MenED8TJg9Zf2RH9ZE1zXfUR-E1raO9FtiVzRYaTRnDuEjzMpESW7xx7LB9ZuSYv9bH4DEYLK7uhCteBYmhyhj_wvTPuhKezg=w408-h725-k-no"
+        },
+        {
+            "id": 72,
+            "nome": "Cascata Club ",
+            "descricao_curta": "O local conta com piscina, área de convivência e estrutura simples, porém acolhedora, sendo muito procurado para encontros entre amigos, comemorações e momentos de lazer nos fins de semana.",
+            "descricao_longa": "O Cascata Club é um espaço de lazer bastante conhecido em Piripiri, ideal para quem busca diversão, descanso e bons momentos em um ambiente descontraído. O local conta com piscina, área de convivência e estrutura simples, porém acolhedora, sendo muito procurado para encontros entre amigos, comemorações e momentos de lazer nos fins de semana. Com clima familiar, atendimento elogiado e preços acessíveis, o Cascata Club se destaca como uma boa opção para quem quer se refrescar, relaxar e aproveitar o dia com tranquilidade. Bem avaliado por seus frequentadores, é um lugar agradável para curtir e aproveitar sem pressa. 💦🏖️🍻✨",
+            "endereco": " R. Ten. Antônio de Freitas, 2640 - Prado, Piripiri  ",
+            "telefone": " (86) 99949-9181",
+            "opcoes_servico": "Piscina e área de convivência.",
+            "avaliacoes": " 4,4 estrelas ",
+            "imagem": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxXimNGK-JPKPBDitBAVpiyfOcdZ37AIKHBB452paJXg9oqWuplC94_nD0F1DHIsmtwKu_r1g4Qwz8VO10D0tscrLQEb0SMsdveOqSyFpRbPjZg8oGNd4mglI8w3cVjqzdy55nW=w425-h240-k-no"
+        }
+    ],
+    "academia": [
+        {
+            "id": 73,
+            "nome": "Academia Trend Fitness",
+            "descricao_curta": "A Academia Trend Fitness é uma das academias mais bem avaliadas de Piripiri, sendo uma excelente opção para quem busca qualidade, dedicação e bons resultados nos treinos.",
+            "descricao_longa": "A Academia Trend Fitness é uma das academias mais bem avaliadas de Piripiri, sendo uma excelente opção para quem busca qualidade, dedicação e bons resultados nos treinos. Com ambiente organizado e equipamentos adequados para diferentes tipos de exercícios, o espaço atende desde iniciantes até alunos mais experientes. Um dos grandes diferenciais da Trend Fitness é o acompanhamento de profissionais atenciosos e comprometidos, sempre prontos para orientar e motivar. Bem localizada e bastante elogiada pelos alunos, a academia se destaca por oferecer um ambiente positivo, focado em saúde, bem-estar e evolução constante. 💪🏋️‍♂️✨",
+            "endereco": " Av. Aderson Alves Ferreira, 605 - Centro, Piripiri ",
+            "telefone": " --------",
+            "opcoes_servico": "Opções variadas de aparelhos.",
+            "avaliacoes": " 5,0 estrelas  ",
+            "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4k6cwo0GXt0dA8Ou7QZdN8WU8UUMuA9I8PA&s"
+        },
+        {
+            "id": 74,
+            "nome": "Flexum Academia",
+            "descricao_curta": "Com mais de 10 anos no mercado, a academia se destaca pela estrutura moderna, ambiente limpo e bem organizado, proporcionando conforto e segurança para todos os alunos.",
+            "descricao_longa": "A Flexum Academia é referência em Piripiri quando o assunto é qualidade, modernidade e compromisso com a saúde. Com mais de 10 anos no mercado, a academia se destaca pela estrutura moderna, ambiente limpo e bem organizado, proporcionando conforto e segurança para todos os alunos. Os equipamentos atendem a diferentes modalidades de treino, e o espaço é ideal tanto para iniciantes quanto para quem já treina há mais tempo. Além disso, a Flexum oferece ótimo custo-benefício, unindo qualidade e preços acessíveis. Reconhecida pelo bom atendimento e pela seriedade no trabalho, a Flexum Academia é uma excelente escolha para quem busca resultados, bem-estar e constância nos treinos. ",
+            "endereco": " R.Duque de Caxias, 390 - Centro, Piripiri  ",
+            "telefone": " (86) 99425-9205",
+            "opcoes_servico": "Preço acessível . Variedade de aparelhos.",
+            "avaliacoes": " 4,7 estrelas ",
+            "imagem": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzKNsQFGo0usHt2I5gXK2wVPxbo0t789gve4BiefNE75Q4n4eyEfyckT0_-ywJFkqOaQZxQ5CEYln0x4XsxP_VrQJNopx9yIKe_X7222Vu4uWZaM2k80XQlpKy5Rjrac5NVHsy9UQ=w408-h306-k-no"
+        },
+        {
+            "id": 75,
+            "nome": "Studio Fit Academia",
+            "descricao_curta": "A academia conta com uma estrutura bem planejada, equipamentos adequados e um clima motivador que faz os alunos se sentirem à vontade desde o primeiro dia.",
+            "descricao_longa": "A Studio FIT Academia é um espaço que se destaca em Piripiri por oferecer um ambiente acolhedor, amplo e de alta qualidade, ideal para quem busca treinar com conforto e tranquilidade. A academia conta com uma estrutura bem planejada, equipamentos adequados e um clima motivador que faz os alunos se sentirem à vontade desde o primeiro dia. O espaço amplo permite treinos mais organizados e agradáveis, atendendo diferentes perfis e objetivos. Reconhecida pela qualidade do serviço e pelo cuidado com os alunos, a Studio FIT Academia é uma ótima escolha para quem valoriza bem-estar, bom atendimento e uma experiência positiva durante os treinos. 💪✨",
+            "endereco": " R. José Francisco de Carvalho, 11 - Morro da Saudade, Piripiri ",
+            "telefone": " (86) 99951-5009",
+            "opcoes_servico": "Coach preparado",
+            "avaliacoes": " 5,0 estrelas ",
+            "imagem": "https://lh3.googleusercontent.com/p/AF1QipP6BMc57EuWOAy5uehY5GxzpTiFN-BsLv-yofzi=w426-h240-k-no"
+        },
+        {
+            "id": 76,
+            "nome": "Zona Fit Piripiri ",
+            "descricao_curta": "O espaço conta com ótimos aparelhos, que atendem diferentes tipos de treino e objetivos, proporcionando uma experiência completa para iniciantes e praticantes mais avançados. ",
+            "descricao_longa": "A Zona Fit Piripiri é uma academia que se destaca pelo ambiente agradável, bem estruturado e pela excelente recepção oferecida aos alunos. Desde a chegada, o atendimento atencioso cria um clima motivador e acolhedor, ideal para quem busca treinar com conforto e confiança. O espaço conta com ótimos aparelhos, que atendem diferentes tipos de treino e objetivos, proporcionando uma experiência completa para iniciantes e praticantes mais avançados. A Zona Fit Piripiri é uma excelente opção para quem procura qualidade, bom atendimento e um ambiente positivo para cuidar da saúde e do bem-estar. 💪🏋️‍♂️✨",
+            "endereco": "  R. Prof. Francisco Émerson, 747 - Centro, Piripiri ",
+            "telefone": "(86) 98824-7545",
+            "opcoes_servico": "Lindo pôr do sol",
+            "avaliacoes": "4,5 estrelas  ",
+            "imagem": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwg6BTKK5c48nyBUUGdiNj0-UMvlUhf2hG10Fo5ojC8B5JaxydfHWi4BGLBrihr17KZNI7xonGRFEO-w0A8zft6KSyy202d30yytZC2WOu4kgAHUHerXe2NcUVyh90hJjSrjo1K=w408-h306-k-no"
+        },
+        {
+            "id": 77,
+            "nome": "Fit Lion Accademia",
+            "descricao_curta": " A academia oferece equipamentos de ótima qualidade, atendendo diferentes modalidades e níveis de treino, além de contar com preço acessível, garantindo um ótimo custo-benefício.",
+            "descricao_longa": "A Fit Lion Academia é uma excelente opção em Piripiri para quem busca treinar em um ambiente espaçoso, bonito e altamente motivador. Seu espaço bem planejado e visual agradável contribuem para uma experiência de treino mais leve e inspiradora, ajudando os alunos a manterem o foco e a constância. A academia oferece equipamentos de ótima qualidade, atendendo diferentes modalidades e níveis de treino, além de contar com preço acessível, garantindo um ótimo custo-benefício. Combinando qualidade, conforto e motivação, a Fit Lion Academia se destaca como um lugar ideal para cuidar da saúde e alcançar bons resultados. 💪🦁✨",
+            "endereco": "  Rua Felinto Resende, 503 - Centro, Piripiri  ",
+            "telefone": "(86) 99941-9380",
+            "opcoes_servico": "Bom local de acesso",
+            "avaliacoes": "4,8 estrelas ",
+            "imagem": "https://www.google.com.br/maps/place/Fit+Lion+Accademia/@-4.2713826,-41.7784792,3a,75y,247.99h,90t/data=!3m5!1e1!3m3!1sSDhoJw-IYqlCcLn2Bzh5Bw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0%26panoid%3DSDhoJw-IYqlCcLn2Bzh5Bw%26yaw%3D247.99184!4m7!3m6!1s0x7930763043b6901:0x4d06b332e03a2779!8m2!3d-4.2714397!4d-41.7786209!10e5!16s%2Fg%2F11fj2xz4mj?hl=pt-BR&entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoKLDEwMDc5MjA3MUgBUAM%3D#"
+        },
+        {
+            "id": 78,
+            "nome": "Elite Fitness Piripiri ",
+            "descricao_curta": "O espaço é bem estruturado, ideal tanto para iniciantes quanto para quem já tem experiência, proporcionando treinos mais confortáveis e produtivos.",
+            "descricao_longa": "A Elite Fitness Piripiri é uma academia que se destaca pelo conforto e pela excelente climatização, oferecendo um ambiente agradável para treinos em qualquer horário do dia. Com mais de 7 anos no mercado, a academia conquistou a confiança dos alunos por meio da qualidade dos serviços e do compromisso com a saúde e o bem-estar. O espaço é bem estruturado, ideal tanto para iniciantes quanto para quem já tem experiência, proporcionando treinos mais confortáveis e produtivos. Reconhecida pela constância e pelo cuidado com os alunos, a Elite Fitness Piripiri é uma ótima escolha para quem busca qualidade, experiência e conforto em um só lugar. 💪❄️✨",
+            "endereco": " Av. Nelson Rezende, 364 - Estação, Piripiri",
+            "telefone": " --------",
+            "opcoes_servico": "Boa localização.",
+            "avaliacoes": "4,7 estrelas ",
+            "imagem": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSziaCde8kOJxN9mo2oamneWFXaVI6715thFh0305mU0TfGFZFXK1A2dLBFz60okVGG1nfgLWk2_vbpppxyYq3Rx0CRrN9MDuzxoONUpkhqZiiKCyaT2Lqi1uxJ-3bCO5m5Z4UNp=w408-h544-k-no"
+        },
+        {
+            "id": 79,
+            "nome": "World Training Academia",
+            "descricao_curta": " Um dos grandes diferenciais da World Training é sua estrutura de dois andares, que garante mais conforto, organização e variedade durante os treinos.",
+            "descricao_longa": "A World Training Academia é uma das academias mais frequentadas de Piripiri, sendo referência quando o assunto é estrutura, modernidade e custo-benefício. O espaço é moderno, bem equipado e conta com ótimos aparelhos, atendendo com qualidade diferentes tipos de treino e níveis de condicionamento físico. Um dos grandes diferenciais da World Training é sua estrutura de dois andares, que garante mais conforto, organização e variedade durante os treinos. Com ambiente movimentado, motivador e preços acessíveis, a academia se destaca como uma excelente escolha para quem busca qualidade, bons resultados e uma experiência completa de treino. 💪🏋️‍♀️✨",
+            "endereco": " Av. Dr. Dirceu Mendes Arcoverde, 498 -  Floresta, Piripiri ",
+            "telefone": " (86) 99913-6693",
+            "opcoes_servico": "Lindo pôr do sol",
+            "avaliacoes": " 4,7 estrelas ",
+            "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCtKNWrPw_lt4SEIgDbgEWKktd2cXYpVYZkw&s"
+        },
+        {
+            "id": 80,
+            "nome": "Center Fit Academia ",
+            "descricao_curta": "Formações rochosas e trilhas históricas.",
+            "descricao_longa": "A Center Fit Academia é reconhecida em Piripiri pela excelente estrutura e pelo alto padrão de qualidade que oferece aos seus alunos. Apesar de possuir um preço mais elevado, o investimento é compensado por uma experiência completa, com dois andares bem organizados, equipamentos modernos e ambiente confortável. Um dos grandes diferenciais da Center Fit é o acompanhamento de profissionais capacitados, que orientam os treinos de forma segura e eficiente, ajudando cada aluno a alcançar seus objetivos. Ideal para quem busca qualidade, tecnologia e suporte profissional, a Center Fit Academia se destaca como uma opção premium na cidade. 💪🏢✨",
+            "endereco": "  R. Santos Dumont, 322 - Centro, Piripiri  ",
+            "telefone": "(86) 99989-7789",
+            "opcoes_servico": "Ampla variedade de aparelhos.",
+            "avaliacoes": "4,7 estrelas ",
+            "imagem": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxlBUnZ9wvyFeda1YsqlGEmxN7kQkR59jGmvctkZe7PhZ_CRYbyU-HDBgizZ67I4j-oysmy8Yi72r2mAMfGqqI40FDnlEmKA37XNsuI5Q7KW6AKXz9p8-H36hJcUgYy2cV6NTXTQg=w408-h306-k-no"
+        }
+    ],
+    "hospedagem": [
+        {
+            "id": 81,
+            "nome": "Pousada Dallas",
+            "descricao_curta": "A pousada oferece café da manhã incluso, Wi-Fi gratuito e estacionamento grátis, garantindo mais comodidade aos hóspedes.",
+            "descricao_longa": "A Pousada Dallas é uma das mais conhecidas de Piripiri, sendo muito procurada por quem busca conforto, praticidade e boa localização. A pousada oferece café da manhã incluso, Wi-Fi gratuito e estacionamento grátis, garantindo mais comodidade aos hóspedes. Com um ambiente familiar e acolhedor, é também uma ótima opção para crianças, proporcionando tranquilidade para quem viaja em família. Bem avaliada por visitantes e reconhecida pelo bom atendimento, a Pousada Dallas se destaca como uma excelente escolha para quem deseja se hospedar com conforto e segurança em Piripiri. 🏨☕📶🚗✨",
+            "endereco": "Av. Tomaz Rebelo, 1150 - Anajás, Piripiri",
+            "telefone": "(86) 99990-7802",
+            "opcoes_servico": "Café da manhã incluso, Wi-Fi gratuito e estacionamento grátis.",
+            "avaliacoes": "4,3 estrelas ",
+            "imagem": "https://lh3.googleusercontent.com/p/AF1QipMHQtGA0sFSYqBafaYNzNMguUkT71b5t3ysrRk1=w426-h240-k-no"
+        },
+        {
+            "id": 82,
+            "nome": "Califórnia Hotel ",
+            "descricao_curta": "Reconhecido pelo bom atendimento e pela estrutura funcional, o Califórnia Hotel é uma excelente opção para quem busca conforto, tranquilidade e um ótimo custo-benefício na cidade. ",
+            "descricao_longa": "O Califórnia Hotel é um hotel 3 estrelas em Piripiri que se destaca pelo ambiente aconchegante e pelo conforto oferecido aos hóspedes. As acomodações contam com ar-condicionado, garantindo bem-estar em qualquer época do ano. O hotel também oferece café da manhã incluso, Wi-Fi gratuito e estacionamento grátis, proporcionando praticidade e comodidade durante a estadia. Reconhecido pelo bom atendimento e pela estrutura funcional, o Califórnia Hotel é uma excelente opção para quem busca conforto, tranquilidade e um ótimo custo-benefício na cidade. 🏨☕❄️📶🚗✨",
+            "endereco": "R. Dr. Antenor de Araújo Freitas, 546 - Centro, Piripiri  ",
+            "telefone": " (86) 99902-0800",
+            "opcoes_servico": "Café da manhã incluso, Wi-Fi gratuito, ar-condicionado e estacionamento grátis.",
+            "avaliacoes": " 3,9 estrelas ",
+            "imagem": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyh_gbiPM0p7bS6MuK557cvqtiiCSn-0nkXzBPIjHMjMpmcOArMhMjBvtj9ixTjvNEcqaqYUSIRLpc5WvL1m4fxPNWKbVSfQxmWtjGf9tFKVQQW6osbc6dqPZJQDFK-aAUIc8g=w408-h306-k-no"
+        },
+        {
+            "id": 83,
+            "nome": "Hotel Imperial",
+            "descricao_curta": " Pensado para oferecer conforto a todos, o hotel é ideal para crianças, proporcionando uma estadia tranquila e segura. ",
+            "descricao_longa": "O Hotel Imperial é uma excelente opção de hospedagem em Piripiri para quem busca um ambiente moderno e aconchegante, ideal tanto para viagens em família quanto a trabalho. Pensado para oferecer conforto a todos, o hotel é ideal para crianças, proporcionando uma estadia tranquila e segura. As acomodações contam com ar-condicionado, além de Wi-Fi gratuito, estacionamento grátis e café da manhã incluso, garantindo praticidade e bem-estar aos hóspedes. Com estrutura bem cuidada e atendimento elogiado, o Hotel Imperial se destaca como uma ótima escolha para quem deseja conforto, comodidade e uma experiência agradável na cidade. 🏨☕❄️📶🚗✨",
+            "endereco": "Av. Aderson Alves Ferreira, 1980 - Barcelona, Piripiri ",
+            "telefone": "(86) 3276-1227",
+            "opcoes_servico": "Café da manhã incluso, Wi-Fi gratuito, ar-condicionado e estacionamento grátis.",
+            "avaliacoes": "3,9 estrelas  ",
+            "imagem": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSygzbPizMO2FSEUAaEJoycyK6YVvM_pgXSxxH_XR0DmV1p25T_dtTd4vMi02s_PWZp5Rk04BrokFVStYXhVii4KxnJST46JEewFU2FtWAVIlhTzeSgLlZc762FpauThArddDNCx9A=w408-h544-k-no"
+        },
+        {
+            "id": 84,
+            "nome": "Pousada Petecas",
+            "descricao_curta": "A pousada se destaca pelo clima sossegado, atendimento atencioso e estrutura simples, porém confortável, proporcionando uma estadia agradável para quem valoriza paz e bem-estar. ",
+            "descricao_longa": "A Pousada Petecas é a escolha ideal para quem procura uma hospedagem mais tranquila e acolhedora em Piripiri. Com um ambiente calmo e familiar, o local é perfeito para descansar, relaxar e fugir da agitação do dia a dia. A pousada se destaca pelo clima sossegado, atendimento atencioso e estrutura simples, porém confortável, proporcionando uma estadia agradável para quem valoriza paz e bem-estar. Muito procurada por quem deseja silêncio e descanso, a Pousada Petecas é uma ótima opção para aproveitar momentos de tranquilidade e conforto. 🏡✨",
+            "endereco": "BR-343, bairro - Petecas, Piripiri  ",
+            "telefone": " (86) 99912-8705",
+            "opcoes_servico": "Local tranquilo e acolhedor.",
+            "avaliacoes": "4,7 estrelas ",
+            "imagem": "https://lh3.googleusercontent.com/p/AF1QipNVw1X20bgVUPDF-d_GERTrPzfgFDVFBvju-JV5=w426-h240-k-no"
+        },
+        {
+            "id": 85,
+            "nome": "Hotel Ramos",
+            "descricao_curta": "Ideal para quem busca praticidade e conforto sem excessos, o hotel oferece um ambiente organizado, agradável e acolhedor. ",
+            "descricao_longa": "O Hotel Ramos é uma opção de hospedagem em Piripiri que se destaca pela proposta simples, porém bonita e bem cuidada. Ideal para quem busca praticidade e conforto sem excessos, o hotel oferece um ambiente organizado, agradável e acolhedor. Com atendimento atencioso e uma estrutura funcional, o Hotel Ramos é uma boa escolha para quem deseja uma estadia tranquila, com simplicidade e bom gosto, atendendo bem às necessidades do dia a dia. 🏨✨",
+            "endereco": "Rua Felinto Resende, 173 - Centro, Piripiri ",
+            "telefone": " (86) 3276-2105",
+            "opcoes_servico": "Centro da cidade.",
+            "avaliacoes": " 3,1 estrelas  ",
+            "imagem": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyHMFwWLRqPQxg0DN_bhGCt5I-M-TICn8urM8VC5U0wSXbWExFYuWJi1EWuPRpNYlMXaJPx6wAVzO5ippzOVDpOPnngItoBRCmXYREsrG7HuT9WVtEK30bmgCxGmJkEHJCpaUEG=w408-h544-k-no"
+        },
+        {
+            "id": 86,
+            "nome": "Hotel Nova Aliança ",
+            "descricao_curta": " Com uma estrutura bem planejada e visual agradável, o hotel oferece acomodações aconchegantes que garantem uma estadia tranquila e confortável. ",
+            "descricao_longa": "O Hotel Nova Aliança é uma excelente opção de hospedagem em Piripiri para quem busca um ambiente moderno, confortável e bonito. Com uma estrutura bem planejada e visual agradável, o hotel oferece acomodações aconchegantes que garantem uma estadia tranquila e confortável. O cuidado com os detalhes e o ambiente bem organizado fazem do Hotel Nova Aliança uma ótima escolha tanto para quem viaja a lazer quanto a trabalho, unindo praticidade, conforto e uma experiência agradável. 🏨✨",
+            "endereco": " R. Aristeu Tupinambá Rodrigues, 145 - Centro, Piripiri  ",
+            "telefone": "(86) 99910-5175",
+            "opcoes_servico": "Facilidade de chegar a pontos turísticos.",
+            "avaliacoes": "4,7 estrelas ",
+            "imagem": "https://lh3.googleusercontent.com/p/AF1QipNxVBsMQGz_C7IpriohTc28gfxFBSpPyRX0YVhR=w408-h271-k-no"
+        }
+    ]
+}

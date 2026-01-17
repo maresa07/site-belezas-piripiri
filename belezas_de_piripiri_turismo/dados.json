@@ -1,0 +1,206 @@
+{
+    "Academia": [
+        {
+            "id": "Academia Trend Fitness",
+            "nome": "Academia Trend Fitness"
+        }
+    ],
+    "Banhos": [
+        {
+            "descricao_curta": "",
+            "imagem": "",
+            "telefone": "",
+            "id": "Balneário Águas Espraiadas",
+            "descricao_longa": "",
+            "avaliacoes": "",
+            "endereco": {
+                "mapa": "",
+                "rua": ""
+            },
+            "nome": "Balneário Águas Espraiadas",
+            "opcoes_servico": ""
+        }
+    ],
+    "Esportes": [
+        {
+            "descricao_curta": "",
+            "imagem": "",
+            "telefone": "",
+            "id": "Arena Sportsbeach",
+            "descricao_longa": "",
+            "avaliacoes": "",
+            "endereco": {
+                "mapa": "",
+                "rua": ""
+            },
+            "nome": "Arena Sportsbeach",
+            "opcoes_servico": ""
+        }
+    ],
+    "Hamburgueria": [
+        {
+            "descricao_curta": "",
+            "imagem": "",
+            "telefone": "",
+            "id": "Joker’s Burger Piripiri",
+            "descricao_longa": "",
+            "avaliacoes": "",
+            "endereco": {
+                "mapa": "",
+                "rua": ""
+            },
+            "nome": "Joker’s Burger Piripiri",
+            "opcoes_servico": ""
+        }
+    ],
+    "Hospedagem": [
+        {
+            "id": "Pousada Dallas",
+            "nome": "Pousada Dallas"
+        }
+    ],
+    "Igrejas": [
+        {
+            "descricao_curta": "",
+            "imagem": "",
+            "telefone": "",
+            "id": "Paróquia Nossa Senhora Dos Remédios",
+            "descricao_longa": "",
+            "avaliacoes": "",
+            "endereco": {
+                "mapa": "",
+                "rua": ""
+            },
+            "nome": "Paróquia Nossa Senhora Dos Remédios",
+            "opcoes_servico": ""
+        }
+    ],
+    "Pizzaria": [
+        {
+            "descricao_curta": "Se destaca pelo cardápio variado, que vai muito além das pizzas.",
+            "imagem": "https://img.restaurantguru.com/r8ff-Pizzaria-Mais-Sabor-1-e-2-design.jpg",
+            "telefone": "(86) 99987-3307",
+            "id": "Pizzaria Mais Sabor - Piripiri",
+            "descricao_longa": "A Pizzaria Mais Sabor, localizada na Avenida Dr. Pádua Mendes, no Centro de Piripiri, se destaca pelo cardápio variado, que vai muito além das pizzas. Além dos sabores tradicionais e especiais, o local também oferece hambúrgueres e até churrasco. É uma ótima opção para quem busca uma refeição de qualidade com bom custo-benefício. Não à toa, a pizzaria possui avaliação de 4,7 estrelas no Google, resultado da satisfação de muitos clientes.",
+            "avaliacoes": "4,7 estrelas",
+            "endereco": {
+                "mapa": "https://maps.app.goo.gl/jfQagQatp3ks9CAe6",
+                "rua": "Av. Dr. Pádua Mendes, 1238 - Centro, Piripiri - PI, 64260-000"
+            },
+            "nome": "Pizzaria Mais Sabor - Piripiri",
+            "opcoes_servico": "Brinquedos para crianças. · Entrega em domicílio · Aceita cartões de crédito"
+        }
+    ],
+    "Praças": [
+        {
+            "descricao_curta": "",
+            "imagem": "",
+            "telefone": "",
+            "id": "Praça da Bandeira",
+            "descricao_longa": "",
+            "avaliacoes": "",
+            "endereco": {
+                "mapa": "",
+                "rua": ""
+            },
+            "nome": "Praça da Bandeira",
+            "opcoes_servico": ""
+        }
+    ],
+    "Restaurantes": [
+        {
+            "descricao_curta": "",
+            "imagem": "",
+            "telefone": "",
+            "id": "Espaço Castanhola",
+            "descricao_longa": "",
+            "avaliacoes": "",
+            "endereco": {
+                "mapa": "",
+                "rua": ""
+            },
+            "nome": "",
+            "opcoes_servico": ""
+        }
+    ],
+    "Sorveteria": [
+        {
+            "descricao_curta": "",
+            "imagem": "",
+            "telefone": "",
+            "id": "Sorveteria Cremosa",
+            "descricao_longa": "",
+            "avaliacoes": "",
+            "endereco": {
+                "mapa": "",
+                "rua": ""
+            },
+            "nome": "",
+            "opcoes_servico": ""
+        }
+    ],
+    "Sushi": [
+        {
+            "id": "KUROSHIRO Sushi Bar",
+            "nome": "KUROSHIRO Sushi Bar"
+        }
+    ],
+    "Users": [
+        {
+            "E-mail": "hanandaisllaoliveirasilva@gmail.com",
+            "Name": "Hananda Islla Oliveira Silva",
+            "Password": "Nanda1414",
+            "ID": 2,
+            "Online": true,
+            "id": "Hananda Islla Oliveira Silva"
+        },
+        {
+            "E-mail": "Lourivalneto555@gmail.com",
+            "Name": "Lourival Campelo da Silva Neto",
+            "Password": "Neto10121314",
+            "ID": 3,
+            "Online": true,
+            "id": "Lourival Campelo da Silva Neto"
+        },
+        {
+            "E-mail": "maresanascimento.2008@gmail.com",
+            "Name": "Maresa de Souza Nascimento",
+            "Password": "LHLIIMA.7212",
+            "ID": 4,
+            "Online": true,
+            "id": "Maresa de Souza Nascimento"
+        },
+        {
+            "E-mail": "mariaemanuelecarvalhodearaujo@gmail.com",
+            "Name": "Maria Emanuele Carvalho de Araujo",
+            "Password": "Manu4321",
+            "ID": 5,
+            "Online": true,
+            "id": "Maria Emanuele Carvalho de Araujo"
+        },
+        {
+            "E-mail": "rafa3344fg@gmail.com",
+            "Name": "Rafaelle Araujo Sampaio",
+            "Password": "Rafa3434",
+            "ID": 6,
+            "Online": true,
+            "id": "Rafaelle Araujo Sampaio"
+        },
+        {
+            "E-mail": "raissansciment@gmail.com",
+            "Name": "Raissa Nicole Nascimento",
+            "Password": "Capivara.",
+            "ID": 7,
+            "Online": true,
+            "id": "Raissa Nicole Nascimento"
+        },
+        {
+            "E-mail": "te770760@gmail.com",
+            "Name": "Thiago Emanuel Cardozo Rodrigues",
+            "Password": "Adminlegal",
+            "ID": 1,
+            "Online": true,
+            "id": "Thiago Emanuel Cardozo Rodrigues"
+        }
+    ]
+}

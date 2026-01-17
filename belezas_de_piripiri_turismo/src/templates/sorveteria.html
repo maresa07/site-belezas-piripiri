@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+
+{% block title %}Sorveterias{% endblock %}
+
+{% block content %}
+<div class="title">
+<h1>Lista de Sorveterias</h1>
+</div>
+
+<div class="cards">
+    {% for lugar in lugares %}
+    <div class="card">
+        <h2>{{ lugar.nome }}</h2>
+        <img src="{{ lugar.imagem }}" class="course-img">
+        <p>{{ lugar.descricao_curta }}</p>
+        <a href="{{ url_for('lugar', id=lugar.id) }}" class="btn">Detalhes</a>
+
+    </div>
+    {% endfor %}
+</div>
+{% endblock %}

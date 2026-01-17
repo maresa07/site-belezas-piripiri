@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>{% block title %}Belezas de Piripiri{% endblock %}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link rel="icon" href="{{ url_for('static', filename='icons/favicon.ico') }}">
+</head>
+<body>
+
+    {% include "header.html" %}
+    {% include "categorias.html" %}
+
+    <main class="conteudo">
+        {% block content %}{% endblock %}
+    </main>
+
+    {% include "footer.html" %}
+
+</body>
+</html>

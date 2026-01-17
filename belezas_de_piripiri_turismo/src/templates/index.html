@@ -1,0 +1,64 @@
+{% extends "base.html" %}
+
+{% block title %}Belezas de Piripiri: encantando a todos.{% endblock %}
+
+{% block content %}
+
+<article class="destaque">
+  <button class="prev" onclick="voltar()">&#10094;</button>
+  <img 
+    id="imagem"
+    src="{{ url_for('static', filename='imagens/imagens2.png') }}" 
+    alt="Imagens da igreja"
+  >
+  <button class="next" onclick="avancar()">&#10095;</button>
+  <div>
+    <h5 style="color: darkgreen;">DESTAQUES</h5>
+    <h1 style="color: rgb(90, 87, 87);">
+      Piripiri é uma cidade que guarda história em cada detalhe.
+    </h1>
+    <p>
+      Simples e acolhedora, encanta pela tranquilidade das suas ruas e pela
+      forma calorosa com que recebe quem chega.
+    </p>
+  </div>
+</article>
+
+<article class="noticia">
+   <img src="{{ url_for('static', filename='imagens/imagens8.png') }}" 
+    alt="Homem com seu cachorro no evento da Prefeitura">
+  <div>
+  <h2>Prefeitura de Piripiri realiza Natal dos Pets na Praça da Bandeira</h2>
+  <p>29 de dezembro de 2025</p>
+  <p>
+    A Prefeitura Municipal de Piripiri, por meio da Secretaria Municipal de Comunicação (SECOM), realizou nesta segunda-feira, 29, o Natal dos Pets de Piripiri. O evento integrou a programação do Natal dos Sonhos e aconteceu na Praça da Bandeira, reunindo tutores, animais e um grande público em uma noite de confraternização e animação.
+  </p>
+  </div>
+</article>
+
+<article class="noticia">
+   <div>
+  <h2>Prefeitura de Piripiri realiza entrega de cestas natalinas no Natal do Amor</h2>
+  <p>25 de Dezembro de 2025</p>
+  <p>
+    A Prefeitura Municipal de Piripiri, por meio da Secretaria do Trabalho, Cidadania e Desenvolvimento Social (SETAS), promoveu nesta terça-feira (23) a entrega de dezenas de cestas natalinas durante a ação Natal do Amor, realizada na AABB de Piripiri.  
+  </p>
+  </div>
+    <img src="{{ url_for('static', filename='imagens/imagens9.png') }}" 
+    alt="Evento para entrega de cestas natalinas">
+</article>
+
+<article class="noticia">
+  <img src="{{ url_for('static', filename='imagens/imagens10.png') }}" 
+    alt="Evento para entrega de cestas natalinas">
+  <div>
+  <h2>Prefeitura de Piripiri realiza Desfile de Natal com chegada do Papai Noel</h2>
+  <p >24 de dezembro de 2025</p>
+  <p>
+    A Prefeitura Municipal de Piripiri, por meio da Secretaria Municipal de Comunicação (Secom), promoveu nesta terça-feira, dia 23, o Desfile de Natal com a chegada do Papai Noel. O desfile contou com a presença da prefeita Jôve Oliveira Monteiro e reuniu uma multidão que saiu do topo da Avenida Tomaz Rebelo em direção à Praça da Bandeira, onde mais pessoas aguardavam.
+  </p>
+  </div>
+</article>
+
+<script src="{{ url_for('static', filename='js/carrossel.js') }}" defer></script>
+{% endblock %}
